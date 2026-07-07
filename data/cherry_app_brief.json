@@ -1,0 +1,10 @@
+{
+  "app": "Cherry",
+  "status": "live_google_play_only",
+  "play_store_url": "https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
+  "positioning": "A self-guided practice app for social anxiety that helps users plan tiny real-world social reps and log what actually happened.",
+  "not": ["therapy", "a cure", "a replacement for professional care"],
+  "core_mechanism": ["tiny social reps", "prediction vs reality logs", "structured practice", "low-pressure progress"],
+  "avatar": "Android users who struggle with social anxiety, avoidance, overthinking, group chats, meetings, plans, phone calls, and everyday social reps.",
+  "cta": "Try Cherry on Google Play"
+}

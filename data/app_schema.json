@@ -1,0 +1,19 @@
+{
+  "app": "string",
+  "slug": "string",
+  "status": "string",
+  "primary_url": "string",
+  "primary_cta": "string",
+  "positioning": "string",
+  "avatar": "string",
+  "core_mechanism": ["string"],
+  "pain_scenes": ["string"],
+  "desired_outcomes": ["string"],
+  "forbidden_claims": ["string"],
+  "visual_lane": {
+    "style": "string",
+    "palette": ["string"],
+    "avoid": ["string"]
+  },
+  "hashtags": ["string"]
+}

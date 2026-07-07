@@ -1,0 +1,25 @@
+{
+  "app": "Held",
+  "slug": "held",
+  "status": "prelaunch_next_week",
+  "primary_url": "TODO",
+  "primary_cta": "Join the Held waitlist",
+  "positioning": "A quiet prayer partner app that helps two Christians actually follow through in prayer — one prayer, one person, one day at a time.",
+  "avatar": "Christians who want to pray with someone consistently but feel awkward, forgetful, guilty, or overwhelmed by group-heavy spiritual apps.",
+  "core_mechanism": ["one prayer partner", "small daily rhythm", "quiet accountability", "no groups", "no guilt"],
+  "pain_scenes": [
+    "saying you will pray and forgetting",
+    "feeling guilty about inconsistent prayer",
+    "not wanting another noisy group chat",
+    "wanting someone to know what you are carrying",
+    "starting strong and fading after three days"
+  ],
+  "desired_outcomes": ["actually follow through", "feel quietly held", "build a simple prayer rhythm with one person"],
+  "forbidden_claims": ["guarantees spiritual growth", "replaces church", "replaces counseling", "God will answer", "miracle guaranteed"],
+  "visual_lane": {
+    "style": "pixel-art quiet sacred editorial backgrounds, symbolic not literal, gentle and reverent",
+    "palette": ["warm cream", "soft blue", "candle gold", "muted violet"],
+    "avoid": ["readable text", "cheesy religious clipart", "literal Jesus depictions", "guilt/shame imagery"]
+  },
+  "hashtags": ["#prayer", "#christianapp", "#faithhabits", "#prayerpartner", "#christiantiktok"]
+}

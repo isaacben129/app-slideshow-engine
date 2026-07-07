@@ -1,0 +1,26 @@
+{
+  "app": "Cherry",
+  "slug": "cherry",
+  "status": "live_google_play_only",
+  "primary_url": "https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
+  "primary_cta": "Try Cherry on Google Play",
+  "positioning": "A self-guided practice app for social anxiety that helps users plan tiny real-world social reps and log what actually happened.",
+  "avatar": "Android users who struggle with social anxiety, avoidance, overthinking, group chats, meetings, plans, phone calls, and everyday social reps.",
+  "core_mechanism": ["tiny social reps", "prediction vs reality logs", "structured practice", "low-pressure progress"],
+  "pain_scenes": [
+    "rehearsing a short sentence for too long",
+    "typing and deleting a group chat reply",
+    "canceling plans then feeling guilty",
+    "avoiding calls",
+    "hoping not to be noticed in meetings",
+    "pretending not to see someone to avoid saying hi"
+  ],
+  "desired_outcomes": ["doing one small social rep", "collecting real evidence", "showing up without needing confidence first"],
+  "forbidden_claims": ["cure", "treats", "treatment", "clinically proven", "replace therapy", "therapy replacement"],
+  "visual_lane": {
+    "style": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful",
+    "palette": ["warm cream", "muted purple", "cherry red"],
+    "avoid": ["readable text", "distressed faces", "medical imagery"]
+  },
+  "hashtags": ["#socialanxiety", "#overthinking", "#anxietytools", "#confidencebuilding", "#mentalhealthapp"]
+}

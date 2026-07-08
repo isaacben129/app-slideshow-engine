@@ -370,11 +370,29 @@ def generate_hook_candidates(app: dict, rng: random.Random, minimum: int = 20) -
 
 def choose_slide_count(hook: HookCandidate) -> int:
     body_len = len(hook.body)
+    # Leave room for a final-save/CTA slide when the emotional loop is short.
     if hook.category in {"private_moment", "correction"}:
-        return min(6, max(4, body_len + 1))
+        return min(6, max(5, body_len + 2))
     if hook.category == "consequence":
-        return min(7, max(5, body_len + 1))
-    return min(6, max(4, body_len + 1))
+        return min(7, max(6, body_len + 2))
+    return min(6, max(5, body_len + 2))
+
+
+def final_cta_for_hook(hook: HookCandidate) -> str:
+    if hook.category == "correction":
+        return "save this for the next freeze"
+    if hook.category == "consequence":
+        return "save this before the next loop"
+    if hook.category == "counterintuitive":
+        return "start with the smallest real rep"
+    if hook.category == "question":
+        return "make the next version smaller"
+    return "save this for your next tiny rep"
+
+
+def has_late_cta(slides: list[str]) -> bool:
+    tail = " ".join(slides[-2:]).lower()
+    return any(x in tail for x in ["save", "try", "start", "practice", "cherry", "comment", "share"])
 
 
 def title_from_hook(app: dict, hook: str) -> str:
@@ -386,6 +404,10 @@ def title_from_hook(app: dict, hook: str) -> str:
 def build_from_hook(app: dict, hook: HookCandidate) -> Slideshow:
     slide_count = choose_slide_count(hook)
     slides = [hook.text] + hook.body[: slide_count - 1]
+    if not has_late_cta(slides) and len(slides) < 7:
+        slides.append(final_cta_for_hook(hook))
+    elif not has_late_cta(slides):
+        slides[-1] = final_cta_for_hook(hook)
     lane = app.get("visual_lane", {})
     palette = ", ".join(lane.get("palette", [])) or "warm, muted palette"
     avoid = ", ".join(lane.get("avoid", [])) or "readable text"
@@ -452,12 +474,16 @@ def score_candidate(app: dict, hook: HookCandidate, slides: list[str], caption: 
     emotional_markers = ["relief", "heavy", "avoid", "silence", "safe", "froze", "rude", "cliff", "weird", "counted", "quiet", "perceived"]
     emotional = 8 + min(10, sum(1 for w in emotional_markers if any(w in s.lower() for s in slides)))
     reframe = 14 if any(x in " ".join(slides).lower() for x in ["smaller", "tiny", "rep", "confidence", "not a character", "not rude", "not ignore"]) else 8
-    app_late = 10 if app["app"].lower() not in slides[0].lower() and any(app["app"].lower() in s.lower() for s in slides[-2:]) else 7
+    first_to_second = f"{slides[0]} -> {slides[1]}".lower() if len(slides) > 1 else ""
+    bridge_terms = ["because", "then", "so", "but", "after", "before", "until", "without", "choice", "proof", "loop", "hard"]
+    swipe_bridge = 10 if any(t in first_to_second for t in bridge_terms) and slides[0].lower() != slides[1].lower() else 5
+    app_late = 10 if app["app"].lower() not in slides[0].lower() and (any(app["app"].lower() in s.lower() for s in slides[-2:]) or app["app"].lower() in caption.lower()) else 7
+    late_cta = 8 if has_late_cta(slides) else 3
     forbidden = [f.lower() for f in app.get("forbidden_claims", [])] + ["cure", "guaranteed", "clinically proven"]
     safety = 0 if any(f and f in caption.lower() for f in forbidden) else 10
     engagement = 8 if hook.category in {"private_moment", "correction", "consequence"} else 6
     visual = 5 if "pixel" in image_prompt.lower() and "symbolic" in image_prompt.lower() and "negative space" in image_prompt.lower() else 3
-    return {"retention_chain": retention, "emotional_resonance": min(18, emotional), "novel_reframe": reframe, "app_fit_late": app_late, "safety": safety, "engagement_trigger": engagement, "visual_evocativeness": visual}
+    return {"retention_chain": retention, "emotional_resonance": min(18, emotional), "novel_reframe": reframe, "swipe_bridge": swipe_bridge, "app_fit_late": app_late, "late_cta": late_cta, "safety": safety, "engagement_trigger": engagement, "visual_evocativeness": visual}
 
 
 def critic_notes(score_breakdown: dict[str, int], hook: HookCandidate) -> list[str]:
@@ -466,8 +492,12 @@ def critic_notes(score_breakdown: dict[str, int], hook: HookCandidate) -> list[s
         notes.append("Reject unless manually approved: hook score is below scheduling threshold.")
     if score_breakdown["retention_chain"] < 18:
         notes.append("Tighten slide count/line length; first swipe path is not crisp enough.")
+    if score_breakdown["swipe_bridge"] < 10:
+        notes.append("Strengthen the slide-1-to-slide-2 bridge; the hook should make swipe 1 feel unresolved.")
     if score_breakdown["app_fit_late"] < 10:
         notes.append("Keep Cherry/product mention late; do not lead with app language.")
+    if score_breakdown["late_cta"] < 8:
+        notes.append("Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.")
     if score_breakdown["visual_evocativeness"] < 5:
         notes.append("Make visual symbol more evocative and leave more negative space for centered text.")
     if len(notes) == 1:

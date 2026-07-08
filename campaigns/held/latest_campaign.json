@@ -1,20 +1,20 @@
 [
   {
     "app": "held",
-    "title": "Held \u2014 Tiny Bridge Rep #023",
+    "title": "Held \u2014 Receipt Printer Rep #003",
     "hook": "You do the tiny workaround instead of feeling guilty about inconsistent prayer.",
     "hook_category": "private_moment",
     "hook_score": 9,
     "slides": [
       "You do the tiny workaround instead of feeling guilty about inconsistent prayer.",
-      "The problem is not that you do not care. It is that the next step is too undefined.",
-      "That is why 'feel quietly held' needs a tiny repeatable system, not just another good intention.",
-      "Consistency usually starts when the step gets embarrassingly specific.",
+      "Your brain keeps choosing the familiar loop because it has no smaller script to run.",
+      "That is why 'actually follow through' needs a tiny repeatable system, not just another good intention.",
+      "The win is not perfection. The win is a repeatable rep.",
       "One action small enough to complete today.",
       "Held helps with one prayer partner, small daily rhythm \u2014 without turning it into another vague intention."
     ],
     "caption": "You do the tiny workaround instead of feeling guilty about inconsistent prayer. Start with one tiny rep, then make the next one easier to repeat. Held: A quiet prayer partner app that helps two Christians actually follow through in prayer \u2014 one prayer, one person, one day at a time. Join the Held waitlist: TODO",
-    "image_prompt": "pixel-art quiet sacred editorial backgrounds, symbolic not literal, gentle and reverent, a tiny bridge of light crossing a dark but gentle gap, palette: warm cream, soft blue, candle gold, muted violet, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, cheesy religious clipart, literal Jesus depictions, guilt/shame imagery.",
+    "image_prompt": "pixel-art quiet sacred editorial backgrounds, symbolic not literal, gentle and reverent, a long blank receipt from an old printer turning into a field notebook, palette: warm cream, soft blue, candle gold, muted violet, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, cheesy religious clipart, literal Jesus depictions, guilt/shame imagery.",
     "hashtags": [
       "#prayer",
       "#christianapp",
@@ -22,12 +22,14 @@
       "#prayerpartner",
       "#christiantiktok"
     ],
-    "score": 91,
+    "score": 100,
     "score_breakdown": {
       "retention_chain": 12,
-      "emotional_resonance": 9,
+      "emotional_resonance": 8,
       "novel_reframe": 14,
+      "swipe_bridge": 10,
       "app_fit_late": 10,
+      "late_cta": 3,
       "safety": 10,
       "engagement_trigger": 8,
       "visual_evocativeness": 3
@@ -36,64 +38,25 @@
       "Hook-first pipeline: category=private_moment, hook_score=9/14, breakdown={'private_specificity': 2, 'recognition': 1, 'tension': 0, 'brevity': 1, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 1}.",
       "Reject unless manually approved: hook score is below scheduling threshold.",
       "Tighten slide count/line length; first swipe path is not crisp enough.",
+      "Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.",
       "Make visual symbol more evocative and leave more negative space for centered text."
     ]
   },
   {
     "app": "held",
-    "title": "Held \u2014 Empty Chair Rep #013",
+    "title": "Held \u2014 Blinking Cursor Rep #019",
     "hook": "You do the tiny workaround instead of saying you will pray and forgetting.",
     "hook_category": "private_moment",
     "hook_score": 9,
     "slides": [
       "You do the tiny workaround instead of saying you will pray and forgetting.",
-      "The problem is not that you do not care. It is that the next step is too undefined.",
-      "That is why 'actually follow through' needs a tiny repeatable system, not just another good intention.",
-      "Make it small enough to do before your brain talks you out of it.",
-      "One action small enough to complete today.",
+      "Your brain keeps choosing the familiar loop because it has no smaller script to run.",
+      "That is why 'build a simple prayer rhythm with one person' needs a tiny repeatable system, not just another good intention.",
+      "The goal is not to transform overnight.",
+      "One note afterward: what did I expect, and what actually happened?",
       "Held helps with one prayer partner, small daily rhythm \u2014 without turning it into another vague intention."
     ],
     "caption": "You do the tiny workaround instead of saying you will pray and forgetting. Start with one tiny rep, then make the next one easier to repeat. Held: A quiet prayer partner app that helps two Christians actually follow through in prayer \u2014 one prayer, one person, one day at a time. Join the Held waitlist: TODO",
-    "image_prompt": "pixel-art quiet sacred editorial backgrounds, symbolic not literal, gentle and reverent, an empty chair under warm light with a tiny dotted path leading toward it, palette: warm cream, soft blue, candle gold, muted violet, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, cheesy religious clipart, literal Jesus depictions, guilt/shame imagery.",
-    "hashtags": [
-      "#prayer",
-      "#christianapp",
-      "#faithhabits",
-      "#prayerpartner",
-      "#christiantiktok"
-    ],
-    "score": 90,
-    "score_breakdown": {
-      "retention_chain": 12,
-      "emotional_resonance": 8,
-      "novel_reframe": 14,
-      "app_fit_late": 10,
-      "safety": 10,
-      "engagement_trigger": 8,
-      "visual_evocativeness": 3
-    },
-    "mutation_notes": [
-      "Hook-first pipeline: category=private_moment, hook_score=9/14, breakdown={'private_specificity': 2, 'recognition': 1, 'tension': 0, 'brevity': 1, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 1}.",
-      "Reject unless manually approved: hook score is below scheduling threshold.",
-      "Tighten slide count/line length; first swipe path is not crisp enough.",
-      "Make visual symbol more evocative and leave more negative space for centered text."
-    ]
-  },
-  {
-    "app": "held",
-    "title": "Held \u2014 Blinking Cursor Rep #012",
-    "hook": "You know feeling guilty about inconsistent prayer matters, but somehow it becomes tomorrow's problem.",
-    "hook_category": "private_moment",
-    "hook_score": 8,
-    "slides": [
-      "You know feeling guilty about inconsistent prayer matters, but somehow it becomes tomorrow's problem.",
-      "Avoidance feels like relief, but it also teaches the habit to come back stronger.",
-      "That is why 'build a simple prayer rhythm with one person' needs a tiny repeatable system, not just another good intention.",
-      "Consistency usually starts when the step gets embarrassingly specific.",
-      "One version so small it almost feels silly.",
-      "Held helps with one prayer partner, small daily rhythm \u2014 without turning it into another vague intention."
-    ],
-    "caption": "You know feeling guilty about inconsistent prayer matters, but somehow it becomes tomorrow's problem. Start with one tiny rep, then make the next one easier to repeat. Held: A quiet prayer partner app that helps two Christians actually follow through in prayer \u2014 one prayer, one person, one day at a time. Join the Held waitlist: TODO",
     "image_prompt": "pixel-art quiet sacred editorial backgrounds, symbolic not literal, gentle and reverent, a glowing blinking cursor in an empty message box slowly becoming a tiny open doorway, palette: warm cream, soft blue, candle gold, muted violet, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, cheesy religious clipart, literal Jesus depictions, guilt/shame imagery.",
     "hashtags": [
       "#prayer",
@@ -102,12 +65,57 @@
       "#prayerpartner",
       "#christiantiktok"
     ],
-    "score": 89,
+    "score": 100,
     "score_breakdown": {
       "retention_chain": 12,
-      "emotional_resonance": 10,
+      "emotional_resonance": 8,
       "novel_reframe": 14,
+      "swipe_bridge": 10,
       "app_fit_late": 10,
+      "late_cta": 3,
+      "safety": 10,
+      "engagement_trigger": 8,
+      "visual_evocativeness": 3
+    },
+    "mutation_notes": [
+      "Hook-first pipeline: category=private_moment, hook_score=9/14, breakdown={'private_specificity': 2, 'recognition': 1, 'tension': 0, 'brevity': 1, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 1}.",
+      "Reject unless manually approved: hook score is below scheduling threshold.",
+      "Tighten slide count/line length; first swipe path is not crisp enough.",
+      "Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.",
+      "Make visual symbol more evocative and leave more negative space for centered text."
+    ]
+  },
+  {
+    "app": "held",
+    "title": "Held \u2014 Single Candle Rep #001",
+    "hook": "You know feeling guilty about inconsistent prayer matters, but somehow it becomes tomorrow's problem.",
+    "hook_category": "private_moment",
+    "hook_score": 8,
+    "slides": [
+      "You know feeling guilty about inconsistent prayer matters, but somehow it becomes tomorrow's problem.",
+      "You cannot build trust with yourself from intentions alone. You need repeatable evidence.",
+      "That is why 'actually follow through' needs a tiny repeatable system, not just another good intention.",
+      "The win is not perfection. The win is a repeatable rep.",
+      "One action small enough to complete today.",
+      "Held helps with one prayer partner, small daily rhythm \u2014 without turning it into another vague intention."
+    ],
+    "caption": "You know feeling guilty about inconsistent prayer matters, but somehow it becomes tomorrow's problem. Start with one tiny rep, then make the next one easier to repeat. Held: A quiet prayer partner app that helps two Christians actually follow through in prayer \u2014 one prayer, one person, one day at a time. Join the Held waitlist: TODO",
+    "image_prompt": "pixel-art quiet sacred editorial backgrounds, symbolic not literal, gentle and reverent, a single candle beside two small cups on a quiet table, palette: warm cream, soft blue, candle gold, muted violet, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, cheesy religious clipart, literal Jesus depictions, guilt/shame imagery.",
+    "hashtags": [
+      "#prayer",
+      "#christianapp",
+      "#faithhabits",
+      "#prayerpartner",
+      "#christiantiktok"
+    ],
+    "score": 100,
+    "score_breakdown": {
+      "retention_chain": 12,
+      "emotional_resonance": 8,
+      "novel_reframe": 14,
+      "swipe_bridge": 10,
+      "app_fit_late": 10,
+      "late_cta": 3,
       "safety": 10,
       "engagement_trigger": 8,
       "visual_evocativeness": 3
@@ -116,46 +124,7 @@
       "Hook-first pipeline: category=private_moment, hook_score=8/14, breakdown={'private_specificity': 2, 'recognition': 1, 'tension': 0, 'brevity': 1, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 0}.",
       "Reject unless manually approved: hook score is below scheduling threshold.",
       "Tighten slide count/line length; first swipe path is not crisp enough.",
-      "Make visual symbol more evocative and leave more negative space for centered text."
-    ]
-  },
-  {
-    "app": "held",
-    "title": "Held \u2014 Storm Radar Rep #020",
-    "hook": "You know not wanting another noisy group chat matters, but somehow it becomes tomorrow's problem.",
-    "hook_category": "private_moment",
-    "hook_score": 8,
-    "slides": [
-      "You know not wanting another noisy group chat matters, but somehow it becomes tomorrow's problem.",
-      "Avoidance feels like relief, but it also teaches the habit to come back stronger.",
-      "That is why 'build a simple prayer rhythm with one person' needs a tiny repeatable system, not just another good intention.",
-      "Consistency usually starts when the step gets embarrassingly specific.",
-      "One version so small it almost feels silly.",
-      "Held helps with one prayer partner, small daily rhythm \u2014 without turning it into another vague intention."
-    ],
-    "caption": "You know not wanting another noisy group chat matters, but somehow it becomes tomorrow's problem. Start with one tiny rep, then make the next one easier to repeat. Held: A quiet prayer partner app that helps two Christians actually follow through in prayer \u2014 one prayer, one person, one day at a time. Join the Held waitlist: TODO",
-    "image_prompt": "pixel-art quiet sacred editorial backgrounds, symbolic not literal, gentle and reverent, a red storm radar circle fading into a quiet streetlight over a notebook, palette: warm cream, soft blue, candle gold, muted violet, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, cheesy religious clipart, literal Jesus depictions, guilt/shame imagery.",
-    "hashtags": [
-      "#prayer",
-      "#christianapp",
-      "#faithhabits",
-      "#prayerpartner",
-      "#christiantiktok"
-    ],
-    "score": 89,
-    "score_breakdown": {
-      "retention_chain": 12,
-      "emotional_resonance": 10,
-      "novel_reframe": 14,
-      "app_fit_late": 10,
-      "safety": 10,
-      "engagement_trigger": 8,
-      "visual_evocativeness": 3
-    },
-    "mutation_notes": [
-      "Hook-first pipeline: category=private_moment, hook_score=8/14, breakdown={'private_specificity': 2, 'recognition': 2, 'tension': 0, 'brevity': 0, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 0}.",
-      "Reject unless manually approved: hook score is below scheduling threshold.",
-      "Tighten slide count/line length; first swipe path is not crisp enough.",
+      "Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.",
       "Make visual symbol more evocative and leave more negative space for centered text."
     ]
   },
@@ -182,12 +151,14 @@
       "#prayerpartner",
       "#christiantiktok"
     ],
-    "score": 87,
+    "score": 100,
     "score_breakdown": {
       "retention_chain": 12,
       "emotional_resonance": 8,
       "novel_reframe": 14,
+      "swipe_bridge": 10,
       "app_fit_late": 10,
+      "late_cta": 3,
       "safety": 10,
       "engagement_trigger": 8,
       "visual_evocativeness": 3
@@ -196,6 +167,50 @@
       "Hook-first pipeline: category=private_moment, hook_score=8/14, breakdown={'private_specificity': 2, 'recognition': 1, 'tension': 0, 'brevity': 1, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 0}.",
       "Reject unless manually approved: hook score is below scheduling threshold.",
       "Tighten slide count/line length; first swipe path is not crisp enough.",
+      "Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.",
+      "Make visual symbol more evocative and leave more negative space for centered text."
+    ]
+  },
+  {
+    "app": "held",
+    "title": "Held \u2014 Unopened Envelope Rep #008",
+    "hook": "You know not wanting another noisy group chat matters, but somehow it becomes tomorrow's problem.",
+    "hook_category": "private_moment",
+    "hook_score": 8,
+    "slides": [
+      "You know not wanting another noisy group chat matters, but somehow it becomes tomorrow's problem.",
+      "You cannot build trust with yourself from intentions alone. You need repeatable evidence.",
+      "That is why 'feel quietly held' needs a tiny repeatable system, not just another good intention.",
+      "Consistency usually starts when the step gets embarrassingly specific.",
+      "One action small enough to complete today.",
+      "Held helps with one prayer partner, small daily rhythm \u2014 without turning it into another vague intention."
+    ],
+    "caption": "You know not wanting another noisy group chat matters, but somehow it becomes tomorrow's problem. Start with one tiny rep, then make the next one easier to repeat. Held: A quiet prayer partner app that helps two Christians actually follow through in prayer \u2014 one prayer, one person, one day at a time. Join the Held waitlist: TODO",
+    "image_prompt": "pixel-art quiet sacred editorial backgrounds, symbolic not literal, gentle and reverent, an unopened envelope on a table with a tiny bridge of light behind it, palette: warm cream, soft blue, candle gold, muted violet, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, cheesy religious clipart, literal Jesus depictions, guilt/shame imagery.",
+    "hashtags": [
+      "#prayer",
+      "#christianapp",
+      "#faithhabits",
+      "#prayerpartner",
+      "#christiantiktok"
+    ],
+    "score": 100,
+    "score_breakdown": {
+      "retention_chain": 12,
+      "emotional_resonance": 9,
+      "novel_reframe": 14,
+      "swipe_bridge": 10,
+      "app_fit_late": 10,
+      "late_cta": 3,
+      "safety": 10,
+      "engagement_trigger": 8,
+      "visual_evocativeness": 3
+    },
+    "mutation_notes": [
+      "Hook-first pipeline: category=private_moment, hook_score=8/14, breakdown={'private_specificity': 2, 'recognition': 2, 'tension': 0, 'brevity': 0, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 0}.",
+      "Reject unless manually approved: hook score is below scheduling threshold.",
+      "Tighten slide count/line length; first swipe path is not crisp enough.",
+      "Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.",
       "Make visual symbol more evocative and leave more negative space for centered text."
     ]
   },
@@ -222,12 +237,14 @@
       "#prayerpartner",
       "#christiantiktok"
     ],
-    "score": 87,
+    "score": 100,
     "score_breakdown": {
       "retention_chain": 12,
       "emotional_resonance": 10,
       "novel_reframe": 14,
+      "swipe_bridge": 10,
       "app_fit_late": 10,
+      "late_cta": 3,
       "safety": 10,
       "engagement_trigger": 8,
       "visual_evocativeness": 3
@@ -236,6 +253,7 @@
       "Hook-first pipeline: category=private_moment, hook_score=7/14, breakdown={'private_specificity': 2, 'recognition': 1, 'tension': 0, 'brevity': 0, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 0}.",
       "Reject unless manually approved: hook score is below scheduling threshold.",
       "Tighten slide count/line length; first swipe path is not crisp enough.",
+      "Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.",
       "Make visual symbol more evocative and leave more negative space for centered text."
     ]
   },
@@ -262,12 +280,14 @@
       "#prayerpartner",
       "#christiantiktok"
     ],
-    "score": 86,
+    "score": 99,
     "score_breakdown": {
       "retention_chain": 12,
       "emotional_resonance": 9,
       "novel_reframe": 14,
+      "swipe_bridge": 10,
       "app_fit_late": 10,
+      "late_cta": 3,
       "safety": 10,
       "engagement_trigger": 8,
       "visual_evocativeness": 3
@@ -276,6 +296,7 @@
       "Hook-first pipeline: category=private_moment, hook_score=7/14, breakdown={'private_specificity': 2, 'recognition': 1, 'tension': 0, 'brevity': 0, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 0}.",
       "Reject unless manually approved: hook score is below scheduling threshold.",
       "Tighten slide count/line length; first swipe path is not crisp enough.",
+      "Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.",
       "Make visual symbol more evocative and leave more negative space for centered text."
     ]
   },
@@ -302,12 +323,14 @@
       "#prayerpartner",
       "#christiantiktok"
     ],
-    "score": 86,
+    "score": 99,
     "score_breakdown": {
       "retention_chain": 12,
       "emotional_resonance": 9,
       "novel_reframe": 14,
+      "swipe_bridge": 10,
       "app_fit_late": 10,
+      "late_cta": 3,
       "safety": 10,
       "engagement_trigger": 8,
       "visual_evocativeness": 3
@@ -316,6 +339,7 @@
       "Hook-first pipeline: category=private_moment, hook_score=7/14, breakdown={'private_specificity': 2, 'recognition': 1, 'tension': 0, 'brevity': 0, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 0}.",
       "Reject unless manually approved: hook score is below scheduling threshold.",
       "Tighten slide count/line length; first swipe path is not crisp enough.",
+      "Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.",
       "Make visual symbol more evocative and leave more negative space for centered text."
     ]
   },
@@ -342,12 +366,14 @@
       "#prayerpartner",
       "#christiantiktok"
     ],
-    "score": 85,
+    "score": 98,
     "score_breakdown": {
       "retention_chain": 12,
       "emotional_resonance": 8,
       "novel_reframe": 14,
+      "swipe_bridge": 10,
       "app_fit_late": 10,
+      "late_cta": 3,
       "safety": 10,
       "engagement_trigger": 8,
       "visual_evocativeness": 3
@@ -356,6 +382,7 @@
       "Hook-first pipeline: category=private_moment, hook_score=7/14, breakdown={'private_specificity': 2, 'recognition': 1, 'tension': 0, 'brevity': 0, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 0}.",
       "Reject unless manually approved: hook score is below scheduling threshold.",
       "Tighten slide count/line length; first swipe path is not crisp enough.",
+      "Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.",
       "Make visual symbol more evocative and leave more negative space for centered text."
     ]
   },
@@ -382,12 +409,14 @@
       "#prayerpartner",
       "#christiantiktok"
     ],
-    "score": 85,
+    "score": 98,
     "score_breakdown": {
       "retention_chain": 12,
       "emotional_resonance": 8,
       "novel_reframe": 14,
+      "swipe_bridge": 10,
       "app_fit_late": 10,
+      "late_cta": 3,
       "safety": 10,
       "engagement_trigger": 8,
       "visual_evocativeness": 3
@@ -396,6 +425,7 @@
       "Hook-first pipeline: category=private_moment, hook_score=7/14, breakdown={'private_specificity': 2, 'recognition': 1, 'tension': 0, 'brevity': 0, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 0}.",
       "Reject unless manually approved: hook score is below scheduling threshold.",
       "Tighten slide count/line length; first swipe path is not crisp enough.",
+      "Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.",
       "Make visual symbol more evocative and leave more negative space for centered text."
     ]
   },
@@ -422,12 +452,14 @@
       "#prayerpartner",
       "#christiantiktok"
     ],
-    "score": 85,
+    "score": 98,
     "score_breakdown": {
       "retention_chain": 12,
       "emotional_resonance": 8,
       "novel_reframe": 14,
+      "swipe_bridge": 10,
       "app_fit_late": 10,
+      "late_cta": 3,
       "safety": 10,
       "engagement_trigger": 8,
       "visual_evocativeness": 3
@@ -436,6 +468,7 @@
       "Hook-first pipeline: category=private_moment, hook_score=7/14, breakdown={'private_specificity': 2, 'recognition': 1, 'tension': 0, 'brevity': 0, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 0}.",
       "Reject unless manually approved: hook score is below scheduling threshold.",
       "Tighten slide count/line length; first swipe path is not crisp enough.",
+      "Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.",
       "Make visual symbol more evocative and leave more negative space for centered text."
     ]
   },
@@ -462,12 +495,14 @@
       "#prayerpartner",
       "#christiantiktok"
     ],
-    "score": 85,
+    "score": 98,
     "score_breakdown": {
       "retention_chain": 12,
       "emotional_resonance": 8,
       "novel_reframe": 14,
+      "swipe_bridge": 10,
       "app_fit_late": 10,
+      "late_cta": 3,
       "safety": 10,
       "engagement_trigger": 8,
       "visual_evocativeness": 3
@@ -476,6 +511,7 @@
       "Hook-first pipeline: category=private_moment, hook_score=7/14, breakdown={'private_specificity': 2, 'recognition': 1, 'tension': 0, 'brevity': 0, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 0}.",
       "Reject unless manually approved: hook score is below scheduling threshold.",
       "Tighten slide count/line length; first swipe path is not crisp enough.",
+      "Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.",
       "Make visual symbol more evocative and leave more negative space for centered text."
     ]
   }

@@ -9,7 +9,7 @@ Score: **100/100**
 Hook: **you were not rude. you froze.**
 Hook category: `correction`
 Hook score: **13/14**
-Slide count: **5**
+Slide count: **6**
 
 ### Slides
 
@@ -18,6 +18,7 @@ Slide count: **5**
 3. but your body moved first
 4. next time does not need courage
 5. it needs a smaller rep
+6. save this for the next freeze
 
 ### Caption
 
@@ -34,7 +35,7 @@ pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hop
 ### Critic Notes
 
 - Hook-first pipeline: category=correction, hook_score=13/14, breakdown={'private_specificity': 2, 'recognition': 2, 'tension': 1, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.
-- Keep Cherry/product mention late; do not lead with app language.
+- Candidate passes hook-first slideshow rubric; test with real swipe-through analytics.
 
 ## Post 2: Cherry — Group Chat Moved On Without
 
@@ -42,7 +43,7 @@ Score: **100/100**
 Hook: **the group chat moved on without you**
 Hook category: `consequence`
 Hook score: **13/14**
-Slide count: **5**
+Slide count: **6**
 
 ### Slides
 
@@ -51,6 +52,7 @@ Slide count: **5**
 3. until it felt like proof
 4. that is the trap
 5. send the smaller version sooner
+6. save this before the next loop
 
 ### Caption
 
@@ -67,7 +69,7 @@ pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hop
 ### Critic Notes
 
 - Hook-first pipeline: category=consequence, hook_score=13/14, breakdown={'private_specificity': 2, 'recognition': 2, 'tension': 1, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.
-- Keep Cherry/product mention late; do not lead with app language.
+- Candidate passes hook-first slideshow rubric; test with real swipe-through analytics.
 
 ## Post 3: Cherry — Brain Still Counted
 
@@ -75,7 +77,7 @@ Score: **100/100**
 Hook: **your brain still counted it**
 Hook category: `consequence`
 Hook score: **12/14**
-Slide count: **5**
+Slide count: **6**
 
 ### Slides
 
@@ -84,6 +86,7 @@ Slide count: **5**
 3. even if nobody noticed
 4. avoidance teaches too
 5. teach one tiny entrance instead
+6. save this before the next loop
 
 ### Caption
 
@@ -100,7 +103,7 @@ pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hop
 ### Critic Notes
 
 - Hook-first pipeline: category=consequence, hook_score=12/14, breakdown={'private_specificity': 1, 'recognition': 1, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.
-- Keep Cherry/product mention late; do not lead with app language.
+- Strengthen the slide-1-to-slide-2 bridge; the hook should make swipe 1 feel unresolved.
 
 ## Post 4: Cherry — Waited Until Replying Weird
 
@@ -108,7 +111,7 @@ Score: **100/100**
 Hook: **you waited until replying was weird**
 Hook category: `private_moment`
 Hook score: **12/14**
-Slide count: **5**
+Slide count: **6**
 
 ### Slides
 
@@ -117,6 +120,7 @@ Slide count: **5**
 3. not the message
 4. so next time
 5. send the smaller reply first
+6. save this for your next tiny rep
 
 ### Caption
 
@@ -133,15 +137,50 @@ pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hop
 ### Critic Notes
 
 - Hook-first pipeline: category=private_moment, hook_score=12/14, breakdown={'private_specificity': 0, 'recognition': 2, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.
-- Keep Cherry/product mention late; do not lead with app language.
+- Candidate passes hook-first slideshow rubric; test with real swipe-through analytics.
 
-## Post 5: Cherry — Changed Aisles Avoid Saying Hi
+## Post 5: Cherry — Text Got Heavier After Seen
+
+Score: **100/100**
+Hook: **the text got heavier after “seen”**
+Hook category: `private_moment`
+Hook score: **12/14**
+Slide count: **7**
+
+### Slides
+
+1. the text got heavier after “seen”
+2. before that it was just a message
+3. after that it became evidence
+4. so you waited
+5. and it got heavier
+6. answer the smallest honest version
+7. save this for your next tiny rep
+
+### Caption
+
+The smallest honest reply is often the rep. Cherry is on Google Play. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US
+
+### Image Prompt
+
+pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a glowing phone moon over a small notebook and a cherry-red dot, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.
+
+### Hashtags
+
+#socialanxiety #overthinking #anxietytools #confidencebuilding #mentalhealthapp
+
+### Critic Notes
+
+- Hook-first pipeline: category=private_moment, hook_score=12/14, breakdown={'private_specificity': 2, 'recognition': 0, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.
+- Tighten slide count/line length; first swipe path is not crisp enough.
+
+## Post 6: Cherry — Changed Aisles Avoid Saying Hi
 
 Score: **100/100**
 Hook: **you changed aisles to avoid saying hi**
 Hook category: `private_moment`
 Hook score: **12/14**
-Slide count: **6**
+Slide count: **7**
 
 ### Slides
 
@@ -151,6 +190,7 @@ Slide count: **6**
 4. your body called it relief
 5. but the rep was still there
 6. just smaller next time
+7. save this for your next tiny rep
 
 ### Caption
 
@@ -167,9 +207,42 @@ pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hop
 ### Critic Notes
 
 - Hook-first pipeline: category=private_moment, hook_score=12/14, breakdown={'private_specificity': 2, 'recognition': 2, 'tension': 0, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.
-- Keep Cherry/product mention late; do not lead with app language.
+- Tighten slide count/line length; first swipe path is not crisp enough.
 
-## Post 6: Cherry — Did Not Ignore Them Panicked
+## Post 7: Cherry — Confidence Wrong Starting Point
+
+Score: **100/100**
+Hook: **confidence is the wrong starting point**
+Hook category: `counterintuitive`
+Hook score: **11/14**
+Slide count: **5**
+
+### Slides
+
+1. confidence is the wrong starting point
+2. confidence comes after evidence
+3. evidence comes after reps
+4. reps have to be tiny enough to do
+5. start there
+
+### Caption
+
+Do not wait to feel confident. Build tiny evidence first with Cherry. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US
+
+### Image Prompt
+
+pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a small staircase made of cherry-red pixels under a quiet streetlight, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.
+
+### Hashtags
+
+#socialanxiety #overthinking #anxietytools #confidencebuilding #mentalhealthapp
+
+### Critic Notes
+
+- Hook-first pipeline: category=counterintuitive, hook_score=11/14, breakdown={'private_specificity': 1, 'recognition': 0, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.
+- Candidate passes hook-first slideshow rubric; test with real swipe-through analytics.
+
+## Post 8: Cherry — Did Not Ignore Them Panicked
 
 Score: **100/100**
 Hook: **you did not ignore them. you panicked quietly.**
@@ -200,9 +273,9 @@ pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hop
 ### Critic Notes
 
 - Hook-first pipeline: category=correction, hook_score=11/14, breakdown={'private_specificity': 0, 'recognition': 1, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.
-- Keep Cherry/product mention late; do not lead with app language.
+- Strengthen the slide-1-to-slide-2 bridge; the hook should make swipe 1 feel unresolved.
 
-## Post 7: Cherry — Call Rang Like Alarm
+## Post 9: Cherry — Call Rang Like Alarm
 
 Score: **100/100**
 Hook: **the call rang like an alarm**
@@ -234,15 +307,15 @@ pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hop
 ### Critic Notes
 
 - Hook-first pipeline: category=private_moment, hook_score=11/14, breakdown={'private_specificity': 1, 'recognition': 0, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.
-- Keep Cherry/product mention late; do not lead with app language.
+- Strengthen the slide-1-to-slide-2 bridge; the hook should make swipe 1 feel unresolved.
 
-## Post 8: Cherry — Cancelling Plans Has Half-Life
+## Post 10: Cherry — Cancelling Plans Has Half-Life
 
 Score: **100/100**
 Hook: **cancelling plans has a half-life**
 Hook category: `consequence`
 Hook score: **11/14**
-Slide count: **6**
+Slide count: **7**
 
 ### Slides
 
@@ -252,6 +325,7 @@ Slide count: **6**
 4. then the next invite feels heavier
 5. not a character flaw
 6. just a rep your brain never got
+7. save this before the next loop
 
 ### Caption
 
@@ -268,98 +342,32 @@ pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hop
 ### Critic Notes
 
 - Hook-first pipeline: category=consequence, hook_score=11/14, breakdown={'private_specificity': 1, 'recognition': 0, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.
-- Keep Cherry/product mention late; do not lead with app language.
+- Tighten slide count/line length; first swipe path is not crisp enough.
+- Strengthen the slide-1-to-slide-2 bridge; the hook should make swipe 1 feel unresolved.
 
-## Post 9: Cherry — Relief Lasted Twelve Minutes
+## Post 11: Cherry — Just Say Hi Skips Hard
 
 Score: **100/100**
-Hook: **the relief lasted twelve minutes**
-Hook category: `consequence`
-Hook score: **10/14**
-Slide count: **6**
-
-### Slides
-
-1. the relief lasted twelve minutes
-2. then the room got quiet
-3. then your brain replayed the invite
-4. then next time felt bigger
-5. that is the loop
-6. start with a smaller rep
-
-### Caption
-
-Relief can be expensive. Cherry helps you practice one tiny rep at a time. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US
-
-### Image Prompt
-
-pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a soft clock face melting into a tiny warm doorway, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.
-
-### Hashtags
-
-#socialanxiety #overthinking #anxietytools #confidencebuilding #mentalhealthapp
-
-### Critic Notes
-
-- Hook-first pipeline: category=consequence, hook_score=10/14, breakdown={'private_specificity': 0, 'recognition': 0, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.
-- Keep Cherry/product mention late; do not lead with app language.
-
-## Post 10: Cherry — Confidence Wrong Starting Point
-
-Score: **99/100**
-Hook: **confidence is the wrong starting point**
+Hook: **“just say hi” skips the hard part**
 Hook category: `counterintuitive`
-Hook score: **11/14**
-Slide count: **5**
-
-### Slides
-
-1. confidence is the wrong starting point
-2. confidence comes after evidence
-3. evidence comes after reps
-4. reps have to be tiny enough to do
-5. start there
-
-### Caption
-
-Do not wait to feel confident. Build tiny evidence first with Cherry. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US
-
-### Image Prompt
-
-pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a small staircase made of cherry-red pixels under a quiet streetlight, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.
-
-### Hashtags
-
-#socialanxiety #overthinking #anxietytools #confidencebuilding #mentalhealthapp
-
-### Critic Notes
-
-- Hook-first pipeline: category=counterintuitive, hook_score=11/14, breakdown={'private_specificity': 1, 'recognition': 0, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.
-- Keep Cherry/product mention late; do not lead with app language.
-
-## Post 11: Cherry — Knew Answer Let Silence Win
-
-Score: **99/100**
-Hook: **you knew the answer and let silence win**
-Hook category: `private_moment`
 Hook score: **10/14**
 Slide count: **5**
 
 ### Slides
 
-1. you knew the answer and let silence win
-2. not because you had nothing to say
-3. because entering felt too loud
-4. the rep is not knowing
-5. the rep is joining
+1. “just say hi” skips the hard part
+2. the hard part is the second before
+3. when your body votes no
+4. so practice that moment
+5. not the perfect version
 
 ### Caption
 
-Cherry helps you practice tiny entries into social moments. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US
+Cherry helps with the tiny moment before the social move. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US
 
 ### Image Prompt
 
-pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a single glowing chair at a long abstract table, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.
+pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a tiny bridge of light stopping one pixel before the other side, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.
 
 ### Hashtags
 
@@ -367,12 +375,12 @@ pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hop
 
 ### Critic Notes
 
-- Hook-first pipeline: category=private_moment, hook_score=10/14, breakdown={'private_specificity': 1, 'recognition': 1, 'tension': 0, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.
-- Keep Cherry/product mention late; do not lead with app language.
+- Hook-first pipeline: category=counterintuitive, hook_score=10/14, breakdown={'private_specificity': 1, 'recognition': 0, 'tension': 1, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.
+- Candidate passes hook-first slideshow rubric; test with real swipe-through analytics.
 
 ## Post 12: Cherry — Rehearsed Hello Still Avoided Them
 
-Score: **99/100**
+Score: **100/100**
 Hook: **you rehearsed hello and still avoided them**
 Hook category: `private_moment`
 Hook score: **10/14**
@@ -401,4 +409,4 @@ pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hop
 ### Critic Notes
 
 - Hook-first pipeline: category=private_moment, hook_score=10/14, breakdown={'private_specificity': 1, 'recognition': 1, 'tension': 0, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.
-- Keep Cherry/product mention late; do not lead with app language.
+- Strengthen the slide-1-to-slide-2 bridge; the hook should make swipe 1 feel unresolved.

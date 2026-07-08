@@ -10,7 +10,8 @@
       "then judged yourself like it was a choice",
       "but your body moved first",
       "next time does not need courage",
-      "it needs a smaller rep"
+      "it needs a smaller rep",
+      "save this for the next freeze"
     ],
     "caption": "Cherry is for tiny social reps after the freeze. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
     "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a frozen speech bubble thawing into one small cherry-red dot, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.",
@@ -26,14 +27,16 @@
       "retention_chain": 18,
       "emotional_resonance": 10,
       "novel_reframe": 14,
-      "app_fit_late": 7,
+      "swipe_bridge": 10,
+      "app_fit_late": 10,
+      "late_cta": 8,
       "safety": 10,
       "engagement_trigger": 8,
       "visual_evocativeness": 5
     },
     "mutation_notes": [
       "Hook-first pipeline: category=correction, hook_score=13/14, breakdown={'private_specificity': 2, 'recognition': 2, 'tension': 1, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
-      "Keep Cherry/product mention late; do not lead with app language."
+      "Candidate passes hook-first slideshow rubric; test with real swipe-through analytics."
     ]
   },
   {
@@ -47,7 +50,8 @@
       "which almost felt like relief",
       "until it felt like proof",
       "that is the trap",
-      "send the smaller version sooner"
+      "send the smaller version sooner",
+      "save this before the next loop"
     ],
     "caption": "Cherry helps you make social reps small enough to happen. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
     "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, several tiny speech bubbles drifting past one quiet red dot, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.",
@@ -63,14 +67,16 @@
       "retention_chain": 18,
       "emotional_resonance": 9,
       "novel_reframe": 14,
-      "app_fit_late": 7,
+      "swipe_bridge": 10,
+      "app_fit_late": 10,
+      "late_cta": 8,
       "safety": 10,
       "engagement_trigger": 8,
       "visual_evocativeness": 5
     },
     "mutation_notes": [
       "Hook-first pipeline: category=consequence, hook_score=13/14, breakdown={'private_specificity': 2, 'recognition': 2, 'tension': 1, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
-      "Keep Cherry/product mention late; do not lead with app language."
+      "Candidate passes hook-first slideshow rubric; test with real swipe-through analytics."
     ]
   },
   {
@@ -84,7 +90,8 @@
       "even if you called it nothing",
       "even if nobody noticed",
       "avoidance teaches too",
-      "teach one tiny entrance instead"
+      "teach one tiny entrance instead",
+      "save this before the next loop"
     ],
     "caption": "Cherry helps you log what happened and pick one smaller social rep. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
     "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a tiny receipt printer counting invisible marks beside an open notebook, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.",
@@ -100,14 +107,16 @@
       "retention_chain": 18,
       "emotional_resonance": 10,
       "novel_reframe": 14,
-      "app_fit_late": 7,
+      "swipe_bridge": 5,
+      "app_fit_late": 10,
+      "late_cta": 8,
       "safety": 10,
       "engagement_trigger": 8,
       "visual_evocativeness": 5
     },
     "mutation_notes": [
       "Hook-first pipeline: category=consequence, hook_score=12/14, breakdown={'private_specificity': 1, 'recognition': 1, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
-      "Keep Cherry/product mention late; do not lead with app language."
+      "Strengthen the slide-1-to-slide-2 bridge; the hook should make swipe 1 feel unresolved."
     ]
   },
   {
@@ -121,7 +130,8 @@
       "then the delay became the problem",
       "not the message",
       "so next time",
-      "send the smaller reply first"
+      "send the smaller reply first",
+      "save this for your next tiny rep"
     ],
     "caption": "Small replies beat perfect replies. Cherry is on Google Play. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
     "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, an envelope slowly growing a shadow while a cherry-red dot waits beside it, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.",
@@ -137,14 +147,57 @@
       "retention_chain": 18,
       "emotional_resonance": 9,
       "novel_reframe": 14,
-      "app_fit_late": 7,
+      "swipe_bridge": 10,
+      "app_fit_late": 10,
+      "late_cta": 8,
       "safety": 10,
       "engagement_trigger": 8,
       "visual_evocativeness": 5
     },
     "mutation_notes": [
       "Hook-first pipeline: category=private_moment, hook_score=12/14, breakdown={'private_specificity': 0, 'recognition': 2, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
-      "Keep Cherry/product mention late; do not lead with app language."
+      "Candidate passes hook-first slideshow rubric; test with real swipe-through analytics."
+    ]
+  },
+  {
+    "app": "cherry",
+    "title": "Cherry \u2014 Text Got Heavier After Seen",
+    "hook": "the text got heavier after \u201cseen\u201d",
+    "hook_category": "private_moment",
+    "hook_score": 12,
+    "slides": [
+      "the text got heavier after \u201cseen\u201d",
+      "before that it was just a message",
+      "after that it became evidence",
+      "so you waited",
+      "and it got heavier",
+      "answer the smallest honest version",
+      "save this for your next tiny rep"
+    ],
+    "caption": "The smallest honest reply is often the rep. Cherry is on Google Play. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
+    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a glowing phone moon over a small notebook and a cherry-red dot, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.",
+    "hashtags": [
+      "#socialanxiety",
+      "#overthinking",
+      "#anxietytools",
+      "#confidencebuilding",
+      "#mentalhealthapp"
+    ],
+    "score": 100,
+    "score_breakdown": {
+      "retention_chain": 12,
+      "emotional_resonance": 8,
+      "novel_reframe": 14,
+      "swipe_bridge": 10,
+      "app_fit_late": 10,
+      "late_cta": 8,
+      "safety": 10,
+      "engagement_trigger": 8,
+      "visual_evocativeness": 5
+    },
+    "mutation_notes": [
+      "Hook-first pipeline: category=private_moment, hook_score=12/14, breakdown={'private_specificity': 2, 'recognition': 0, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
+      "Tighten slide count/line length; first swipe path is not crisp enough."
     ]
   },
   {
@@ -159,7 +212,8 @@
       "your brain called it safety",
       "your body called it relief",
       "but the rep was still there",
-      "just smaller next time"
+      "just smaller next time",
+      "save this for your next tiny rep"
     ],
     "caption": "Cherry is for the tiny social reps nobody else sees. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
     "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, two soft supermarket aisles becoming parallel pixel paths that nearly meet, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.",
@@ -172,17 +226,58 @@
     ],
     "score": 100,
     "score_breakdown": {
-      "retention_chain": 18,
+      "retention_chain": 12,
       "emotional_resonance": 11,
       "novel_reframe": 14,
-      "app_fit_late": 7,
+      "swipe_bridge": 10,
+      "app_fit_late": 10,
+      "late_cta": 8,
       "safety": 10,
       "engagement_trigger": 8,
       "visual_evocativeness": 5
     },
     "mutation_notes": [
       "Hook-first pipeline: category=private_moment, hook_score=12/14, breakdown={'private_specificity': 2, 'recognition': 2, 'tension': 0, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
-      "Keep Cherry/product mention late; do not lead with app language."
+      "Tighten slide count/line length; first swipe path is not crisp enough."
+    ]
+  },
+  {
+    "app": "cherry",
+    "title": "Cherry \u2014 Confidence Wrong Starting Point",
+    "hook": "confidence is the wrong starting point",
+    "hook_category": "counterintuitive",
+    "hook_score": 11,
+    "slides": [
+      "confidence is the wrong starting point",
+      "confidence comes after evidence",
+      "evidence comes after reps",
+      "reps have to be tiny enough to do",
+      "start there"
+    ],
+    "caption": "Do not wait to feel confident. Build tiny evidence first with Cherry. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
+    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a small staircase made of cherry-red pixels under a quiet streetlight, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.",
+    "hashtags": [
+      "#socialanxiety",
+      "#overthinking",
+      "#anxietytools",
+      "#confidencebuilding",
+      "#mentalhealthapp"
+    ],
+    "score": 100,
+    "score_breakdown": {
+      "retention_chain": 18,
+      "emotional_resonance": 8,
+      "novel_reframe": 14,
+      "swipe_bridge": 10,
+      "app_fit_late": 10,
+      "late_cta": 8,
+      "safety": 10,
+      "engagement_trigger": 6,
+      "visual_evocativeness": 5
+    },
+    "mutation_notes": [
+      "Hook-first pipeline: category=counterintuitive, hook_score=11/14, breakdown={'private_specificity': 1, 'recognition': 0, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
+      "Candidate passes hook-first slideshow rubric; test with real swipe-through analytics."
     ]
   },
   {
@@ -212,14 +307,16 @@
       "retention_chain": 18,
       "emotional_resonance": 9,
       "novel_reframe": 14,
-      "app_fit_late": 7,
+      "swipe_bridge": 5,
+      "app_fit_late": 10,
+      "late_cta": 8,
       "safety": 10,
       "engagement_trigger": 8,
       "visual_evocativeness": 5
     },
     "mutation_notes": [
       "Hook-first pipeline: category=correction, hook_score=11/14, breakdown={'private_specificity': 0, 'recognition': 1, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
-      "Keep Cherry/product mention late; do not lead with app language."
+      "Strengthen the slide-1-to-slide-2 bridge; the hook should make swipe 1 feel unresolved."
     ]
   },
   {
@@ -250,14 +347,16 @@
       "retention_chain": 18,
       "emotional_resonance": 8,
       "novel_reframe": 14,
-      "app_fit_late": 7,
+      "swipe_bridge": 5,
+      "app_fit_late": 10,
+      "late_cta": 8,
       "safety": 10,
       "engagement_trigger": 8,
       "visual_evocativeness": 5
     },
     "mutation_notes": [
       "Hook-first pipeline: category=private_moment, hook_score=11/14, breakdown={'private_specificity': 1, 'recognition': 0, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
-      "Keep Cherry/product mention late; do not lead with app language."
+      "Strengthen the slide-1-to-slide-2 bridge; the hook should make swipe 1 feel unresolved."
     ]
   },
   {
@@ -272,7 +371,8 @@
       "then quiet",
       "then the next invite feels heavier",
       "not a character flaw",
-      "just a rep your brain never got"
+      "just a rep your brain never got",
+      "save this before the next loop"
     ],
     "caption": "Avoidance is relief with interest. Cherry helps you practice tiny social reps without needing confidence first. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
     "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a calendar square dissolving into a small open doorway with warm cherry light, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.",
@@ -285,35 +385,37 @@
     ],
     "score": 100,
     "score_breakdown": {
-      "retention_chain": 18,
+      "retention_chain": 12,
       "emotional_resonance": 10,
       "novel_reframe": 14,
-      "app_fit_late": 7,
+      "swipe_bridge": 5,
+      "app_fit_late": 10,
+      "late_cta": 8,
       "safety": 10,
       "engagement_trigger": 8,
       "visual_evocativeness": 5
     },
     "mutation_notes": [
       "Hook-first pipeline: category=consequence, hook_score=11/14, breakdown={'private_specificity': 1, 'recognition': 0, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
-      "Keep Cherry/product mention late; do not lead with app language."
+      "Tighten slide count/line length; first swipe path is not crisp enough.",
+      "Strengthen the slide-1-to-slide-2 bridge; the hook should make swipe 1 feel unresolved."
     ]
   },
   {
     "app": "cherry",
-    "title": "Cherry \u2014 Relief Lasted Twelve Minutes",
-    "hook": "the relief lasted twelve minutes",
-    "hook_category": "consequence",
+    "title": "Cherry \u2014 Just Say Hi Skips Hard",
+    "hook": "\u201cjust say hi\u201d skips the hard part",
+    "hook_category": "counterintuitive",
     "hook_score": 10,
     "slides": [
-      "the relief lasted twelve minutes",
-      "then the room got quiet",
-      "then your brain replayed the invite",
-      "then next time felt bigger",
-      "that is the loop",
-      "start with a smaller rep"
+      "\u201cjust say hi\u201d skips the hard part",
+      "the hard part is the second before",
+      "when your body votes no",
+      "so practice that moment",
+      "not the perfect version"
     ],
-    "caption": "Relief can be expensive. Cherry helps you practice one tiny rep at a time. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
-    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a soft clock face melting into a tiny warm doorway, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.",
+    "caption": "Cherry helps with the tiny moment before the social move. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
+    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a tiny bridge of light stopping one pixel before the other side, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.",
     "hashtags": [
       "#socialanxiety",
       "#overthinking",
@@ -324,90 +426,18 @@
     "score": 100,
     "score_breakdown": {
       "retention_chain": 18,
-      "emotional_resonance": 10,
-      "novel_reframe": 14,
-      "app_fit_late": 7,
-      "safety": 10,
-      "engagement_trigger": 8,
-      "visual_evocativeness": 5
-    },
-    "mutation_notes": [
-      "Hook-first pipeline: category=consequence, hook_score=10/14, breakdown={'private_specificity': 0, 'recognition': 0, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
-      "Keep Cherry/product mention late; do not lead with app language."
-    ]
-  },
-  {
-    "app": "cherry",
-    "title": "Cherry \u2014 Confidence Wrong Starting Point",
-    "hook": "confidence is the wrong starting point",
-    "hook_category": "counterintuitive",
-    "hook_score": 11,
-    "slides": [
-      "confidence is the wrong starting point",
-      "confidence comes after evidence",
-      "evidence comes after reps",
-      "reps have to be tiny enough to do",
-      "start there"
-    ],
-    "caption": "Do not wait to feel confident. Build tiny evidence first with Cherry. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
-    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a small staircase made of cherry-red pixels under a quiet streetlight, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.",
-    "hashtags": [
-      "#socialanxiety",
-      "#overthinking",
-      "#anxietytools",
-      "#confidencebuilding",
-      "#mentalhealthapp"
-    ],
-    "score": 99,
-    "score_breakdown": {
-      "retention_chain": 18,
       "emotional_resonance": 8,
-      "novel_reframe": 14,
-      "app_fit_late": 7,
+      "novel_reframe": 8,
+      "swipe_bridge": 10,
+      "app_fit_late": 10,
+      "late_cta": 8,
       "safety": 10,
       "engagement_trigger": 6,
       "visual_evocativeness": 5
     },
     "mutation_notes": [
-      "Hook-first pipeline: category=counterintuitive, hook_score=11/14, breakdown={'private_specificity': 1, 'recognition': 0, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
-      "Keep Cherry/product mention late; do not lead with app language."
-    ]
-  },
-  {
-    "app": "cherry",
-    "title": "Cherry \u2014 Knew Answer Let Silence Win",
-    "hook": "you knew the answer and let silence win",
-    "hook_category": "private_moment",
-    "hook_score": 10,
-    "slides": [
-      "you knew the answer and let silence win",
-      "not because you had nothing to say",
-      "because entering felt too loud",
-      "the rep is not knowing",
-      "the rep is joining"
-    ],
-    "caption": "Cherry helps you practice tiny entries into social moments. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
-    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a single glowing chair at a long abstract table, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.",
-    "hashtags": [
-      "#socialanxiety",
-      "#overthinking",
-      "#anxietytools",
-      "#confidencebuilding",
-      "#mentalhealthapp"
-    ],
-    "score": 99,
-    "score_breakdown": {
-      "retention_chain": 18,
-      "emotional_resonance": 9,
-      "novel_reframe": 14,
-      "app_fit_late": 7,
-      "safety": 10,
-      "engagement_trigger": 8,
-      "visual_evocativeness": 5
-    },
-    "mutation_notes": [
-      "Hook-first pipeline: category=private_moment, hook_score=10/14, breakdown={'private_specificity': 1, 'recognition': 1, 'tension': 0, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
-      "Keep Cherry/product mention late; do not lead with app language."
+      "Hook-first pipeline: category=counterintuitive, hook_score=10/14, breakdown={'private_specificity': 1, 'recognition': 0, 'tension': 1, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
+      "Candidate passes hook-first slideshow rubric; test with real swipe-through analytics."
     ]
   },
   {
@@ -432,19 +462,21 @@
       "#confidencebuilding",
       "#mentalhealthapp"
     ],
-    "score": 99,
+    "score": 100,
     "score_breakdown": {
       "retention_chain": 18,
       "emotional_resonance": 9,
       "novel_reframe": 14,
-      "app_fit_late": 7,
+      "swipe_bridge": 5,
+      "app_fit_late": 10,
+      "late_cta": 8,
       "safety": 10,
       "engagement_trigger": 8,
       "visual_evocativeness": 5
     },
     "mutation_notes": [
       "Hook-first pipeline: category=private_moment, hook_score=10/14, breakdown={'private_specificity': 1, 'recognition': 1, 'tension': 0, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
-      "Keep Cherry/product mention late; do not lead with app language."
+      "Strengthen the slide-1-to-slide-2 bridge; the hook should make swipe 1 feel unresolved."
     ]
   }
 ]

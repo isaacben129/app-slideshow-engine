@@ -73,7 +73,9 @@ def render_slide(bg: Image.Image, text: str, idx: int, total: int, out: Path):
     # Text sits just below the upper third: high enough for slideshow style, not pinned to the top.
     text_top = 360
     text_height = 560
-    font, lines, line_h = fit_text(draw, text, W - 2 * margin, text_height, start_size=44)
+    # Founder update: previous corrected style was readable but slightly too small.
+    # Increase start size by 25% (44 -> 55) while retaining auto-fit for longer lines.
+    font, lines, line_h = fit_text(draw, text, W - 2 * margin, text_height, start_size=55)
     y = text_top
     for line in lines:
         bbox = draw.textbbox((0, 0), line, font=font)

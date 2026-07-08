@@ -2,7 +2,7 @@
 """Render real slideshow images with text burned onto each slide.
 
 TikTok slideshow != one image + long caption. This script creates one vertical image
-per slide, using a shared symbolic pixel background and readable overlay text.
+per slide, using either a shared background or one related background per slide.
 """
 from __future__ import annotations
 
@@ -51,6 +51,19 @@ def make_bg(path: Path) -> Image.Image:
     return img.filter(ImageFilter.GaussianBlur(radius=0.6))
 
 
+def load_backgrounds(single_background: str | None, background_dir: str | None, total: int) -> list[Image.Image]:
+    if background_dir:
+        bg_dir = Path(background_dir)
+        files = sorted([p for p in bg_dir.iterdir() if p.suffix.lower() in {'.png', '.jpg', '.jpeg', '.webp'}])
+        if len(files) < total:
+            raise SystemExit(f"background-dir {bg_dir} has {len(files)} images but slideshow needs {total}")
+        return [make_bg(p) for p in files[:total]]
+    if single_background:
+        bg = make_bg(Path(single_background))
+        return [bg for _ in range(total)]
+    raise SystemExit("Provide --background or --background-dir")
+
+
 def render_slide(bg: Image.Image, text: str, idx: int, total: int, out: Path):
     img = bg.copy().convert("RGBA")
     overlay = Image.new("RGBA", (W, H), (0, 0, 0, 0))
@@ -95,17 +108,18 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--app", default="cherry")
     ap.add_argument("--post-index", type=int, default=0)
-    ap.add_argument("--background", required=True)
+    ap.add_argument("--background", default=None)
+    ap.add_argument("--background-dir", default=None)
     ap.add_argument("--out-dir", default=None)
     args = ap.parse_args()
     data = json.loads((ROOT / "campaigns" / args.app / "latest_campaign.json").read_text())
     post = data[args.post_index]
     slides = post["slides"]
-    bg = make_bg(Path(args.background))
+    backgrounds = load_backgrounds(args.background, args.background_dir, len(slides))
     out_dir = Path(args.out_dir) if args.out_dir else ROOT / "rendered" / args.app / post["title"].replace(" ", "_").replace("/", "-")
-    for i, text in enumerate(slides, 1):
+    for i, (text, bg) in enumerate(zip(slides, backgrounds), 1):
         render_slide(bg, text, i, len(slides), out_dir / f"slide_{i:02d}.jpg")
-    meta = {"title": post["title"], "slides": slides, "out_dir": str(out_dir)}
+    meta = {"title": post["title"], "slides": slides, "out_dir": str(out_dir), "background_mode": "dir" if args.background_dir else "single", "slide_image_prompts": post.get("slide_image_prompts", [])}
     (out_dir / "manifest.json").write_text(json.dumps(meta, indent=2))
     print(json.dumps(meta, indent=2))
 

@@ -262,6 +262,7 @@ class Slideshow:
     slides: list[str]
     caption: str
     image_prompt: str
+    slide_image_prompts: list[str]
     hashtags: list[str]
     score: int
     score_breakdown: dict[str, int]
@@ -395,6 +396,58 @@ def has_late_cta(slides: list[str]) -> bool:
     return any(x in tail for x in ["save", "try", "start", "practice", "cherry", "comment", "share"])
 
 
+def themed_slide_prompts(app: dict, slides: list[str], hook: HookCandidate) -> list[str]:
+    lane = app.get("visual_lane", {})
+    palette = ", ".join(lane.get("palette", [])) or "deep saturated palette"
+    avoid = ", ".join(lane.get("avoid", [])) or "readable text, devices"
+    scene_pool = lane.get("scene_pool", []) or ["cozy cafe corner", "city crosswalk at dusk", "apartment bedroom with warm lamp glow", "tree-lined path after rain"]
+    related_anchor = rng_anchor_from_hook(hook)
+    prompts = []
+    for idx, slide in enumerate(slides):
+        scene = scene_pool[idx % len(scene_pool)]
+        phase = scene_phase(idx, len(slides))
+        prompts.append(
+            f"{lane.get('style', 'pixel-art editorial scene background')}, {scene}, {phase}, "
+            f"same campaign world as '{related_anchor}', emotionally aligned to slide text '{slide}', "
+            f"lively, saturated deep colors, deep contrast, warm cinematic light, no people close-up, no faces emphasized, "
+            f"vertical 4:5 TikTok composition, lots of clean negative space for centered text, palette: {palette}, "
+            f"avoid: {avoid}."
+        )
+    return prompts
+
+
+def sanitize_visual_anchor(text: str) -> str:
+    lower = text.lower()
+    replacements = {
+        "speech bubble": "empty chair by a cafe window",
+        "speech bubbles": "empty chairs by cafe windows",
+        "phone": "warm window light",
+        "glowing phone moon": "glowing streetlamp moon",
+        "receipt printer": "faded paper receipt on a counter",
+        "envelope": "sealed note on a table",
+        "calendar square": "doorway marked by late light",
+        "notebook": "paper page",
+    }
+    out = text
+    for old, new in replacements.items():
+        out = out.replace(old, new).replace(old.title(), new)
+    return out
+def rng_anchor_from_hook(hook: HookCandidate) -> str:
+    symbol = sanitize_visual_anchor(hook.symbol.replace("a ", "").replace("an ", ""))
+    return symbol[:120]
+
+
+def scene_phase(idx: int, total: int) -> str:
+    if idx == 0:
+        return "opening scene, strongest contrast, immediate mood"
+    if idx == total - 1:
+        return "closing scene, slightly warmer hopeful turn"
+    if idx <= 1:
+        return "early tension scene"
+    if idx >= total - 2:
+        return "late release scene"
+    return "mid-sequence reflective scene"
+
 def title_from_hook(app: dict, hook: str) -> str:
     words = [w.strip("\u201c\u201d'\"") for w in clean_words(hook) if w not in {"you", "your", "the", "and", "to", "it", "is", "was", "a", "an"}]
     title = " ".join(words[:5]).title() or "Slideshow"
@@ -409,17 +462,18 @@ def build_from_hook(app: dict, hook: HookCandidate) -> Slideshow:
     elif not has_late_cta(slides):
         slides[-1] = final_cta_for_hook(hook)
     lane = app.get("visual_lane", {})
-    palette = ", ".join(lane.get("palette", [])) or "warm, muted palette"
-    avoid = ", ".join(lane.get("avoid", [])) or "readable text"
+    palette = ", ".join(lane.get("palette", [])) or "deep saturated palette"
+    avoid = ", ".join(lane.get("avoid", [])) or "readable text, devices"
+    master_anchor = sanitize_visual_anchor(hook.symbol)
     image_prompt = (
-        f"{lane.get('style', 'pixel-art dreamlike editorial background')}, {hook.symbol}, "
-        f"lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, "
-        f"palette: {palette}, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: {avoid}."
+        f"{lane.get('style', 'pixel-art editorial scene background')}, {master_anchor}, "
+        f"emotionally evocative through real-world place, lively but moody, saturated deep colors, "
+        f"palette: {palette}, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: {avoid}."
     )
+    slide_image_prompts = themed_slide_prompts(app, slides, hook)
     caption = f"{hook.caption} {app.get('primary_url', '')}".strip()
     hashtags = app.get("hashtags", [])[:5]
     score_breakdown = score_candidate(app, hook, slides, caption, image_prompt, slides[-1])
-    # Convert hook score /14 into ~40 points of total influence.
     score = min(100, int((hook.score / 14) * 40) + sum(score_breakdown.values()))
     return Slideshow(
         app=app["slug"],
@@ -430,6 +484,7 @@ def build_from_hook(app: dict, hook: HookCandidate) -> Slideshow:
         slides=slides,
         caption=caption,
         image_prompt=image_prompt,
+        slide_image_prompts=slide_image_prompts,
         hashtags=hashtags,
         score=score,
         score_breakdown=score_breakdown,
@@ -449,14 +504,15 @@ def build_generic_candidate(app: dict, rng: random.Random, i: int) -> Slideshow:
     cta = f"{app.get('primary_cta', 'Learn more')}: {app.get('primary_url', 'TODO')}"
     caption = f"{hook} Start with one tiny rep, then make the next one easier to repeat. {app['app']}: {app['positioning']} {cta}"
     lane = app.get("visual_lane", {})
-    palette = ", ".join(lane.get("palette", [])) or "warm, muted palette"
-    avoid = ", ".join(lane.get("avoid", [])) or "readable text"
-    image_prompt = f"{lane.get('style', 'pixel-art dreamlike editorial background')}, {symbol_desc}, palette: {palette}, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: {avoid}."
+    palette = ", ".join(lane.get("palette", [])) or "deep saturated palette"
+    avoid = ", ".join(lane.get("avoid", [])) or "readable text, devices"
+    image_prompt = f"{lane.get('style', 'pixel-art editorial scene background')}, {symbol_desc}, palette: {palette}, emotionally evocative through real-world place, lively but moody, saturated deep colors, warm cinematic light, vertical 4:5 TikTok composition, avoid: {avoid}."
     hb = score_hook(app, hook, "private_moment")
     h = HookCandidate(hook, "private_moment", sum(hb.values()), hb, slides[1:], symbol_desc, caption)
+    slide_image_prompts = themed_slide_prompts(app, slides, h)
     score_breakdown = score_candidate(app, h, slides, caption, image_prompt, trigger)
     score = min(100, int((h.score / 14) * 40) + sum(score_breakdown.values()))
-    return Slideshow(app=app["slug"], title=f"{app['app']} — {symbol_name.title()} Rep #{i:03d}", hook=hook, hook_category=h.category, hook_score=h.score, slides=slides, caption=caption, image_prompt=image_prompt, hashtags=app.get("hashtags", [])[:5], score=score, score_breakdown=score_breakdown, mutation_notes=critic_notes(score_breakdown, h))
+    return Slideshow(app=app["slug"], title=f"{app['app']} — {symbol_name.title()} Rep #{i:03d}", hook=hook, hook_category=h.category, hook_score=h.score, slides=slides, caption=caption, image_prompt=image_prompt, slide_image_prompts=slide_image_prompts, hashtags=app.get("hashtags", [])[:5], score=score, score_breakdown=score_breakdown, mutation_notes=critic_notes(score_breakdown, h))
 
 
 def build_candidates(app: dict, rng: random.Random, iterations: int) -> tuple[list[HookCandidate], list[Slideshow]]:
@@ -518,7 +574,9 @@ def markdown_campaign(app: dict, winners: list[Slideshow]) -> str:
     for idx, w in enumerate(winners, 1):
         lines += [f"## Post {idx}: {w.title}", "", f"Score: **{w.score}/100**", f"Hook: **{w.hook}**", f"Hook category: `{w.hook_category}`", f"Hook score: **{w.hook_score}/14**", f"Slide count: **{len(w.slides)}**", "", "### Slides", ""]
         lines += [f"{sidx}. {slide}" for sidx, slide in enumerate(w.slides, 1)]
-        lines += ["", "### Caption", "", w.caption, "", "### Image Prompt", "", w.image_prompt, "", "### Hashtags", "", " ".join(w.hashtags), "", "### Critic Notes", ""]
+        lines += ["", "### Caption", "", w.caption, "", "### Master Image Prompt", "", w.image_prompt, "", "### Slide Image Prompts", ""]
+        lines += [f"{pidx}. {prompt}" for pidx, prompt in enumerate(w.slide_image_prompts, 1)]
+        lines += ["", "### Hashtags", "", " ".join(w.hashtags), "", "### Critic Notes", ""]
         lines += [f"- {note}" for note in w.mutation_notes]
         lines.append("")
     return "\n".join(lines)
@@ -538,6 +596,7 @@ def postiz_payloads(winners: list[Slideshow]) -> list[dict]:
             "hook_category": w.hook_category,
             "hook_score": w.hook_score,
             "image_prompt": w.image_prompt,
+            "slide_image_prompts": w.slide_image_prompts,
             "score": w.score,
             "settings": {"privacy_level": "SELF_ONLY", "duet": False, "stitch": False, "comment": True, "autoAddMusic": "no", "brand_content_toggle": False, "brand_organic_toggle": False, "video_made_with_ai": True, "content_posting_method": "UPLOAD"},
         })

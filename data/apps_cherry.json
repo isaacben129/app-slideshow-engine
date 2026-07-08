@@ -18,9 +18,10 @@
   "desired_outcomes": ["doing one small social rep", "collecting real evidence", "showing up without needing confidence first"],
   "forbidden_claims": ["cure", "treats", "treatment", "clinically proven", "replace therapy", "therapy replacement"],
   "visual_lane": {
-    "style": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful",
-    "palette": ["warm cream", "muted purple", "cherry red"],
-    "avoid": ["readable text", "distressed faces", "medical imagery"]
+    "style": "pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful",
+    "palette": ["deep cherry red", "rich plum", "midnight blue", "emerald green", "golden amber", "warm cream"],
+    "scene_pool": ["cozy cafe corner", "city crosswalk at dusk", "tree-lined path after rain", "apartment bedroom with warm lamp glow", "quiet storefront street", "rooftop skyline", "library aisle", "train platform without visible trains close-up", "park bench under saturated evening sky", "stairwell with window light"],
+    "avoid": ["readable text", "distressed faces", "medical imagery", "phones", "speech bubbles", "screens", "devices", "laptops", "tablets", "headphones"]
   },
   "hashtags": ["#socialanxiety", "#overthinking", "#anxietytools", "#confidencebuilding", "#mentalhealthapp"]
 }

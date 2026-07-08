@@ -1,17 +1,19 @@
 [
   {
     "app": "cherry",
-    "title": "Cherry \u2014 They Saw You Seeing Them",
-    "hook": "the worst part is when they see you seeing them",
+    "title": "Cherry \u2014 Were Not Rude Froze",
+    "hook": "you were not rude. you froze.",
+    "hook_category": "correction",
+    "hook_score": 13,
     "slides": [
-      "the worst part is when they see you seeing them",
-      "because now not saying hi feels like a decision",
-      "so you look away first",
-      "and pretend it was nothing",
-      "Cherry is for practicing the tiny version"
+      "you were not rude. you froze.",
+      "then judged yourself like it was a choice",
+      "but your body moved first",
+      "next time does not need courage",
+      "it needs a smaller rep"
     ],
-    "caption": "A small social rep is still a rep. Cherry is on Google Play. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
-    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a tiny red dot hiding behind a streetlight while two paths almost meet, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, avoid: readable text, distressed faces, medical imagery.",
+    "caption": "Cherry is for tiny social reps after the freeze. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
+    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a frozen speech bubble thawing into one small cherry-red dot, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.",
     "hashtags": [
       "#socialanxiety",
       "#overthinking",
@@ -19,35 +21,36 @@
       "#confidencebuilding",
       "#mentalhealthapp"
     ],
-    "score": 99,
+    "score": 100,
     "score_breakdown": {
-      "hook_specificity": 13,
-      "retention_chain": 10,
-      "emotional_resonance": 8,
-      "novel_reframe": 8,
-      "app_fit": 10,
+      "retention_chain": 18,
+      "emotional_resonance": 10,
+      "novel_reframe": 14,
+      "app_fit_late": 7,
       "safety": 10,
-      "engagement_trigger": 5,
+      "engagement_trigger": 8,
       "visual_evocativeness": 5
     },
     "mutation_notes": [
-      "Founder-style paced script: short lines, restraint, app mention late, text designed for upper-third overlay."
+      "Hook-first pipeline: category=correction, hook_score=13/14, breakdown={'private_specificity': 2, 'recognition': 2, 'tension': 1, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
+      "Keep Cherry/product mention late; do not lead with app language."
     ]
   },
   {
     "app": "cherry",
-    "title": "Cherry \u2014 Four Words",
-    "hook": "the reply was four words",
+    "title": "Cherry \u2014 Group Chat Moved On Without",
+    "hook": "the group chat moved on without you",
+    "hook_category": "consequence",
+    "hook_score": 13,
     "slides": [
-      "the reply was four words",
-      "somehow it became a project",
-      "you wrote it",
-      "deleted it",
-      "then waited until replying felt weird",
-      "next time, make the reply smaller"
+      "the group chat moved on without you",
+      "which almost felt like relief",
+      "until it felt like proof",
+      "that is the trap",
+      "send the smaller version sooner"
     ],
-    "caption": "The reply does not have to be perfect. It just has to be small enough to send. Cherry is on Google Play. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
-    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a glowing unopened envelope beside a small bridge of cherry-red pixels, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, avoid: readable text, distressed faces, medical imagery.",
+    "caption": "Cherry helps you make social reps small enough to happen. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
+    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, several tiny speech bubbles drifting past one quiet red dot, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.",
     "hashtags": [
       "#socialanxiety",
       "#overthinking",
@@ -55,25 +58,214 @@
       "#confidencebuilding",
       "#mentalhealthapp"
     ],
-    "score": 98,
+    "score": 100,
     "score_breakdown": {
-      "hook_specificity": 13,
-      "retention_chain": 10,
-      "emotional_resonance": 8,
-      "novel_reframe": 15,
-      "app_fit": 6,
+      "retention_chain": 18,
+      "emotional_resonance": 9,
+      "novel_reframe": 14,
+      "app_fit_late": 7,
       "safety": 10,
-      "engagement_trigger": 5,
+      "engagement_trigger": 8,
       "visual_evocativeness": 5
     },
     "mutation_notes": [
-      "Founder-style paced script: short lines, restraint, app mention late, text designed for upper-third overlay."
+      "Hook-first pipeline: category=consequence, hook_score=13/14, breakdown={'private_specificity': 2, 'recognition': 2, 'tension': 1, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
+      "Keep Cherry/product mention late; do not lead with app language."
     ]
   },
   {
     "app": "cherry",
-    "title": "Cherry \u2014 Half Life",
+    "title": "Cherry \u2014 Brain Still Counted",
+    "hook": "your brain still counted it",
+    "hook_category": "consequence",
+    "hook_score": 12,
+    "slides": [
+      "your brain still counted it",
+      "even if you called it nothing",
+      "even if nobody noticed",
+      "avoidance teaches too",
+      "teach one tiny entrance instead"
+    ],
+    "caption": "Cherry helps you log what happened and pick one smaller social rep. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
+    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a tiny receipt printer counting invisible marks beside an open notebook, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.",
+    "hashtags": [
+      "#socialanxiety",
+      "#overthinking",
+      "#anxietytools",
+      "#confidencebuilding",
+      "#mentalhealthapp"
+    ],
+    "score": 100,
+    "score_breakdown": {
+      "retention_chain": 18,
+      "emotional_resonance": 10,
+      "novel_reframe": 14,
+      "app_fit_late": 7,
+      "safety": 10,
+      "engagement_trigger": 8,
+      "visual_evocativeness": 5
+    },
+    "mutation_notes": [
+      "Hook-first pipeline: category=consequence, hook_score=12/14, breakdown={'private_specificity': 1, 'recognition': 1, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
+      "Keep Cherry/product mention late; do not lead with app language."
+    ]
+  },
+  {
+    "app": "cherry",
+    "title": "Cherry \u2014 Waited Until Replying Weird",
+    "hook": "you waited until replying was weird",
+    "hook_category": "private_moment",
+    "hook_score": 12,
+    "slides": [
+      "you waited until replying was weird",
+      "then the delay became the problem",
+      "not the message",
+      "so next time",
+      "send the smaller reply first"
+    ],
+    "caption": "Small replies beat perfect replies. Cherry is on Google Play. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
+    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, an envelope slowly growing a shadow while a cherry-red dot waits beside it, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.",
+    "hashtags": [
+      "#socialanxiety",
+      "#overthinking",
+      "#anxietytools",
+      "#confidencebuilding",
+      "#mentalhealthapp"
+    ],
+    "score": 100,
+    "score_breakdown": {
+      "retention_chain": 18,
+      "emotional_resonance": 9,
+      "novel_reframe": 14,
+      "app_fit_late": 7,
+      "safety": 10,
+      "engagement_trigger": 8,
+      "visual_evocativeness": 5
+    },
+    "mutation_notes": [
+      "Hook-first pipeline: category=private_moment, hook_score=12/14, breakdown={'private_specificity': 0, 'recognition': 2, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
+      "Keep Cherry/product mention late; do not lead with app language."
+    ]
+  },
+  {
+    "app": "cherry",
+    "title": "Cherry \u2014 Changed Aisles Avoid Saying Hi",
+    "hook": "you changed aisles to avoid saying hi",
+    "hook_category": "private_moment",
+    "hook_score": 12,
+    "slides": [
+      "you changed aisles to avoid saying hi",
+      "then acted like you needed cereal",
+      "your brain called it safety",
+      "your body called it relief",
+      "but the rep was still there",
+      "just smaller next time"
+    ],
+    "caption": "Cherry is for the tiny social reps nobody else sees. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
+    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, two soft supermarket aisles becoming parallel pixel paths that nearly meet, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.",
+    "hashtags": [
+      "#socialanxiety",
+      "#overthinking",
+      "#anxietytools",
+      "#confidencebuilding",
+      "#mentalhealthapp"
+    ],
+    "score": 100,
+    "score_breakdown": {
+      "retention_chain": 18,
+      "emotional_resonance": 11,
+      "novel_reframe": 14,
+      "app_fit_late": 7,
+      "safety": 10,
+      "engagement_trigger": 8,
+      "visual_evocativeness": 5
+    },
+    "mutation_notes": [
+      "Hook-first pipeline: category=private_moment, hook_score=12/14, breakdown={'private_specificity': 2, 'recognition': 2, 'tension': 0, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
+      "Keep Cherry/product mention late; do not lead with app language."
+    ]
+  },
+  {
+    "app": "cherry",
+    "title": "Cherry \u2014 Did Not Ignore Them Panicked",
+    "hook": "you did not ignore them. you panicked quietly.",
+    "hook_category": "correction",
+    "hook_score": 11,
+    "slides": [
+      "you did not ignore them. you panicked quietly.",
+      "there was no plan",
+      "just a sudden blank",
+      "then the moment moved on without you",
+      "practice the smallest hello first"
+    ],
+    "caption": "Cherry helps turn social moments into small reps instead of identity tests. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
+    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, two tiny speech bubbles passing like ships under a muted purple sky, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.",
+    "hashtags": [
+      "#socialanxiety",
+      "#overthinking",
+      "#anxietytools",
+      "#confidencebuilding",
+      "#mentalhealthapp"
+    ],
+    "score": 100,
+    "score_breakdown": {
+      "retention_chain": 18,
+      "emotional_resonance": 9,
+      "novel_reframe": 14,
+      "app_fit_late": 7,
+      "safety": 10,
+      "engagement_trigger": 8,
+      "visual_evocativeness": 5
+    },
+    "mutation_notes": [
+      "Hook-first pipeline: category=correction, hook_score=11/14, breakdown={'private_specificity': 0, 'recognition': 1, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
+      "Keep Cherry/product mention late; do not lead with app language."
+    ]
+  },
+  {
+    "app": "cherry",
+    "title": "Cherry \u2014 Call Rang Like Alarm",
+    "hook": "the call rang like an alarm",
+    "hook_category": "private_moment",
+    "hook_score": 11,
+    "slides": [
+      "the call rang like an alarm",
+      "it was only a phone call",
+      "your body did not care",
+      "so you watched it end",
+      "then felt ridiculous",
+      "start with the smaller version"
+    ],
+    "caption": "Cherry helps you practice the smaller version before the big one. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
+    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a phone glowing like a red moon beside a quiet open window, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.",
+    "hashtags": [
+      "#socialanxiety",
+      "#overthinking",
+      "#anxietytools",
+      "#confidencebuilding",
+      "#mentalhealthapp"
+    ],
+    "score": 100,
+    "score_breakdown": {
+      "retention_chain": 18,
+      "emotional_resonance": 8,
+      "novel_reframe": 14,
+      "app_fit_late": 7,
+      "safety": 10,
+      "engagement_trigger": 8,
+      "visual_evocativeness": 5
+    },
+    "mutation_notes": [
+      "Hook-first pipeline: category=private_moment, hook_score=11/14, breakdown={'private_specificity': 1, 'recognition': 0, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
+      "Keep Cherry/product mention late; do not lead with app language."
+    ]
+  },
+  {
+    "app": "cherry",
+    "title": "Cherry \u2014 Cancelling Plans Has Half-Life",
     "hook": "cancelling plans has a half-life",
+    "hook_category": "consequence",
+    "hook_score": 11,
     "slides": [
       "cancelling plans has a half-life",
       "first relief",
@@ -83,7 +275,7 @@
       "just a rep your brain never got"
     ],
     "caption": "Avoidance is relief with interest. Cherry helps you practice tiny social reps without needing confidence first. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
-    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a calendar square dissolving into a small open doorway with warm cherry light, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, avoid: readable text, distressed faces, medical imagery.",
+    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a calendar square dissolving into a small open doorway with warm cherry light, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.",
     "hashtags": [
       "#socialanxiety",
       "#overthinking",
@@ -91,37 +283,37 @@
       "#confidencebuilding",
       "#mentalhealthapp"
     ],
-    "score": 97,
+    "score": 100,
     "score_breakdown": {
-      "hook_specificity": 14,
-      "retention_chain": 10,
-      "emotional_resonance": 9,
-      "novel_reframe": 8,
-      "app_fit": 6,
+      "retention_chain": 18,
+      "emotional_resonance": 10,
+      "novel_reframe": 14,
+      "app_fit_late": 7,
       "safety": 10,
-      "engagement_trigger": 5,
+      "engagement_trigger": 8,
       "visual_evocativeness": 5
     },
     "mutation_notes": [
-      "Founder-style paced script: short lines, restraint, app mention late, text designed for upper-third overlay."
+      "Hook-first pipeline: category=consequence, hook_score=11/14, breakdown={'private_specificity': 1, 'recognition': 0, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
+      "Keep Cherry/product mention late; do not lead with app language."
     ]
   },
   {
     "app": "cherry",
-    "title": "Cherry \u2014 Receipt Printer Rep #015",
-    "hook": "You pretend not to see someone so you do not have to say hi first.",
+    "title": "Cherry \u2014 Relief Lasted Twelve Minutes",
+    "hook": "the relief lasted twelve minutes",
+    "hook_category": "consequence",
+    "hook_score": 10,
     "slides": [
-      "You pretend not to see someone so you do not have to say hi first.",
-      "Avoidance feels like relief, but it also teaches the habit to come back stronger.",
-      "That is why 'collecting real evidence' needs a tiny repeatable system, not just another good intention.",
-      "The win is not perfection. The win is a repeatable rep.",
-      "One note afterward: what did I expect, and what actually happened?",
-      "Then log what happened so the next rep gets easier to choose.",
-      "Cherry helps with tiny social reps, prediction vs reality logs \u2014 without turning it into another vague intention.",
-      "Which part is hardest: starting, continuing, or coming back after you miss?"
+      "the relief lasted twelve minutes",
+      "then the room got quiet",
+      "then your brain replayed the invite",
+      "then next time felt bigger",
+      "that is the loop",
+      "start with a smaller rep"
     ],
-    "caption": "You pretend not to see someone so you do not have to say hi first. The fix is not a giant breakthrough. Start with one tiny rep, then make the next one easier to repeat. Cherry: A self-guided practice app for social anxiety that helps users plan tiny real-world social reps and log what actually happened. Try Cherry on Google Play: https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
-    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a long blank receipt from an old printer turning into a field notebook, palette: warm cream, muted purple, cherry red, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, distressed faces, medical imagery.",
+    "caption": "Relief can be expensive. Cherry helps you practice one tiny rep at a time. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
+    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a soft clock face melting into a tiny warm doorway, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.",
     "hashtags": [
       "#socialanxiety",
       "#overthinking",
@@ -129,34 +321,36 @@
       "#confidencebuilding",
       "#mentalhealthapp"
     ],
-    "score": 97,
+    "score": 100,
     "score_breakdown": {
-      "hook_specificity": 17,
-      "retention_chain": 15,
-      "emotional_resonance": 15,
-      "novel_reframe": 15,
-      "app_fit": 10,
+      "retention_chain": 18,
+      "emotional_resonance": 10,
+      "novel_reframe": 14,
+      "app_fit_late": 7,
       "safety": 10,
-      "engagement_trigger": 10,
+      "engagement_trigger": 8,
       "visual_evocativeness": 5
     },
     "mutation_notes": [
-      "Candidate passes current conversion-oriented slideshow rubric; test with real analytics."
+      "Hook-first pipeline: category=consequence, hook_score=10/14, breakdown={'private_specificity': 0, 'recognition': 0, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
+      "Keep Cherry/product mention late; do not lead with app language."
     ]
   },
   {
     "app": "cherry",
-    "title": "Cherry \u2014 Not Opening It",
-    "hook": "you opened the text because not opening it felt worse",
+    "title": "Cherry \u2014 Confidence Wrong Starting Point",
+    "hook": "confidence is the wrong starting point",
+    "hook_category": "counterintuitive",
+    "hook_score": 11,
     "slides": [
-      "you opened the text because not opening it felt worse",
-      "then answering felt worse than opening it",
-      "so it sat there",
-      "getting heavier",
-      "Cherry helps you turn it into one small rep"
+      "confidence is the wrong starting point",
+      "confidence comes after evidence",
+      "evidence comes after reps",
+      "reps have to be tiny enough to do",
+      "start there"
     ],
-    "caption": "Small reps beat perfect intentions. Cherry is on Google Play. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
-    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a phone screen glowing like a small moon beside an open window, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, avoid: readable text, distressed faces, medical imagery.",
+    "caption": "Do not wait to feel confident. Build tiny evidence first with Cherry. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
+    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a small staircase made of cherry-red pixels under a quiet streetlight, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.",
     "hashtags": [
       "#socialanxiety",
       "#overthinking",
@@ -164,37 +358,36 @@
       "#confidencebuilding",
       "#mentalhealthapp"
     ],
-    "score": 96,
+    "score": 99,
     "score_breakdown": {
-      "hook_specificity": 13,
-      "retention_chain": 10,
+      "retention_chain": 18,
       "emotional_resonance": 8,
-      "novel_reframe": 8,
-      "app_fit": 6,
+      "novel_reframe": 14,
+      "app_fit_late": 7,
       "safety": 10,
-      "engagement_trigger": 5,
+      "engagement_trigger": 6,
       "visual_evocativeness": 5
     },
     "mutation_notes": [
-      "Founder-style paced script: short lines, restraint, app mention late, text designed for upper-third overlay."
+      "Hook-first pipeline: category=counterintuitive, hook_score=11/14, breakdown={'private_specificity': 1, 'recognition': 0, 'tension': 2, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
+      "Keep Cherry/product mention late; do not lead with app language."
     ]
   },
   {
     "app": "cherry",
-    "title": "Cherry \u2014 Blinking Cursor Rep #024",
-    "hook": "You cancel plans and feel relief for exactly 12 minutes.",
+    "title": "Cherry \u2014 Knew Answer Let Silence Win",
+    "hook": "you knew the answer and let silence win",
+    "hook_category": "private_moment",
+    "hook_score": 10,
     "slides": [
-      "You cancel plans and feel relief for exactly 12 minutes.",
-      "Avoidance feels like relief, but it also teaches the habit to come back stronger.",
-      "That is why 'showing up without needing confidence first' needs a tiny repeatable system, not just another good intention.",
-      "Make it small enough to do before your brain talks you out of it.",
-      "One note afterward: what did I expect, and what actually happened?",
-      "Then log what happened so the next rep gets easier to choose.",
-      "Cherry helps with tiny social reps, prediction vs reality logs \u2014 without turning it into another vague intention.",
-      "What tiny action would still feel like a real win?"
+      "you knew the answer and let silence win",
+      "not because you had nothing to say",
+      "because entering felt too loud",
+      "the rep is not knowing",
+      "the rep is joining"
     ],
-    "caption": "You cancel plans and feel relief for exactly 12 minutes. The fix is not a giant breakthrough. Start with one tiny rep, then make the next one easier to repeat. Cherry: A self-guided practice app for social anxiety that helps users plan tiny real-world social reps and log what actually happened. Try Cherry on Google Play: https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
-    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a glowing blinking cursor in an empty message box slowly becoming a tiny open doorway, palette: warm cream, muted purple, cherry red, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, distressed faces, medical imagery.",
+    "caption": "Cherry helps you practice tiny entries into social moments. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
+    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a single glowing chair at a long abstract table, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.",
     "hashtags": [
       "#socialanxiety",
       "#overthinking",
@@ -202,37 +395,36 @@
       "#confidencebuilding",
       "#mentalhealthapp"
     ],
-    "score": 94,
+    "score": 99,
     "score_breakdown": {
-      "hook_specificity": 15,
-      "retention_chain": 15,
-      "emotional_resonance": 14,
-      "novel_reframe": 15,
-      "app_fit": 10,
+      "retention_chain": 18,
+      "emotional_resonance": 9,
+      "novel_reframe": 14,
+      "app_fit_late": 7,
       "safety": 10,
-      "engagement_trigger": 10,
+      "engagement_trigger": 8,
       "visual_evocativeness": 5
     },
     "mutation_notes": [
-      "Make the hook name a more private, concrete behavior from the app avatar's life."
+      "Hook-first pipeline: category=private_moment, hook_score=10/14, breakdown={'private_specificity': 1, 'recognition': 1, 'tension': 0, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
+      "Keep Cherry/product mention late; do not lead with app language."
     ]
   },
   {
     "app": "cherry",
-    "title": "Cherry \u2014 Tiny Bridge Rep #014",
-    "hook": "You join the call hoping nobody asks you anything.",
+    "title": "Cherry \u2014 Rehearsed Hello Still Avoided Them",
+    "hook": "you rehearsed hello and still avoided them",
+    "hook_category": "private_moment",
+    "hook_score": 10,
     "slides": [
-      "You join the call hoping nobody asks you anything.",
-      "Avoidance feels like relief, but it also teaches the habit to come back stronger.",
-      "That is why 'showing up without needing confidence first' needs a tiny repeatable system, not just another good intention.",
-      "Make it small enough to do before your brain talks you out of it.",
-      "One repeatable rep instead of a vague goal.",
-      "Then log what happened so the next rep gets easier to choose.",
-      "Cherry helps with tiny social reps, prediction vs reality logs \u2014 without turning it into another vague intention.",
-      "Comment 'rep' if you know the first step is the hardest part."
+      "you rehearsed hello and still avoided them",
+      "the script was not the problem",
+      "the first rep was too big",
+      "make the moment smaller",
+      "then practice that"
     ],
-    "caption": "You join the call hoping nobody asks you anything. The fix is not a giant breakthrough. Start with one tiny rep, then make the next one easier to repeat. Cherry: A self-guided practice app for social anxiety that helps users plan tiny real-world social reps and log what actually happened. Try Cherry on Google Play: https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
-    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a tiny bridge of light crossing a dark but gentle gap, palette: warm cream, muted purple, cherry red, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, distressed faces, medical imagery.",
+    "caption": "Cherry is for shrinking social reps until they are doable. https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
+    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a blinking cursor turning into a tiny doorway under warm light, lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, palette: warm cream, muted purple, cherry red, soft grain, vertical 4:5 TikTok composition, lots of negative space for centered text, avoid: readable text, distressed faces, medical imagery.",
     "hashtags": [
       "#socialanxiety",
       "#overthinking",
@@ -240,209 +432,19 @@
       "#confidencebuilding",
       "#mentalhealthapp"
     ],
-    "score": 93,
+    "score": 99,
     "score_breakdown": {
-      "hook_specificity": 13,
-      "retention_chain": 15,
-      "emotional_resonance": 15,
-      "novel_reframe": 15,
-      "app_fit": 10,
+      "retention_chain": 18,
+      "emotional_resonance": 9,
+      "novel_reframe": 14,
+      "app_fit_late": 7,
       "safety": 10,
-      "engagement_trigger": 10,
+      "engagement_trigger": 8,
       "visual_evocativeness": 5
     },
     "mutation_notes": [
-      "Make the hook name a more private, concrete behavior from the app avatar's life."
-    ]
-  },
-  {
-    "app": "cherry",
-    "title": "Cherry \u2014 Blinking Cursor Rep #006",
-    "hook": "You rehearse a 10-second sentence for 20 minutes.",
-    "slides": [
-      "You rehearse a 10-second sentence for 20 minutes.",
-      "Your brain keeps choosing the familiar loop because it has no smaller script to run.",
-      "That is why 'showing up without needing confidence first' needs a tiny repeatable system, not just another good intention.",
-      "You do not need a bigger promise. You need a smaller next action.",
-      "One action small enough to complete today.",
-      "Then log what happened so the next rep gets easier to choose.",
-      "Cherry helps with tiny social reps, prediction vs reality logs \u2014 without turning it into another vague intention.",
-      "What tiny action would still feel like a real win?"
-    ],
-    "caption": "You rehearse a 10-second sentence for 20 minutes. The fix is not a giant breakthrough. Start with one tiny rep, then make the next one easier to repeat. Cherry: A self-guided practice app for social anxiety that helps users plan tiny real-world social reps and log what actually happened. Try Cherry on Google Play: https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
-    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a glowing blinking cursor in an empty message box slowly becoming a tiny open doorway, palette: warm cream, muted purple, cherry red, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, distressed faces, medical imagery.",
-    "hashtags": [
-      "#socialanxiety",
-      "#overthinking",
-      "#anxietytools",
-      "#confidencebuilding",
-      "#mentalhealthapp"
-    ],
-    "score": 92,
-    "score_breakdown": {
-      "hook_specificity": 15,
-      "retention_chain": 15,
-      "emotional_resonance": 12,
-      "novel_reframe": 15,
-      "app_fit": 10,
-      "safety": 10,
-      "engagement_trigger": 10,
-      "visual_evocativeness": 5
-    },
-    "mutation_notes": [
-      "Make the hook name a more private, concrete behavior from the app avatar's life."
-    ]
-  },
-  {
-    "app": "cherry",
-    "title": "Cherry \u2014 Receipt Printer Rep #011",
-    "hook": "You open the message, close it, and call that progress.",
-    "slides": [
-      "You open the message, close it, and call that progress.",
-      "Avoidance feels like relief, but it also teaches the habit to come back stronger.",
-      "That is why 'showing up without needing confidence first' needs a tiny repeatable system, not just another good intention.",
-      "The win is not perfection. The win is a repeatable rep.",
-      "One version so small it almost feels silly.",
-      "Then log what happened so the next rep gets easier to choose.",
-      "Cherry helps with tiny social reps, prediction vs reality logs \u2014 without turning it into another vague intention.",
-      "Save this for the next time the goal gets too vague."
-    ],
-    "caption": "You open the message, close it, and call that progress. The fix is not a giant breakthrough. Start with one tiny rep, then make the next one easier to repeat. Cherry: A self-guided practice app for social anxiety that helps users plan tiny real-world social reps and log what actually happened. Try Cherry on Google Play: https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
-    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a long blank receipt from an old printer turning into a field notebook, palette: warm cream, muted purple, cherry red, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, distressed faces, medical imagery.",
-    "hashtags": [
-      "#socialanxiety",
-      "#overthinking",
-      "#anxietytools",
-      "#confidencebuilding",
-      "#mentalhealthapp"
-    ],
-    "score": 92,
-    "score_breakdown": {
-      "hook_specificity": 13,
-      "retention_chain": 15,
-      "emotional_resonance": 14,
-      "novel_reframe": 15,
-      "app_fit": 10,
-      "safety": 10,
-      "engagement_trigger": 10,
-      "visual_evocativeness": 5
-    },
-    "mutation_notes": [
-      "Make the hook name a more private, concrete behavior from the app avatar's life."
-    ]
-  },
-  {
-    "app": "cherry",
-    "title": "Cherry \u2014 Locked Door Rep #025",
-    "hook": "You know the answer but let the silence win.",
-    "slides": [
-      "You know the answer but let the silence win.",
-      "Your brain keeps choosing the familiar loop because it has no smaller script to run.",
-      "That is why 'collecting real evidence' needs a tiny repeatable system, not just another good intention.",
-      "Consistency usually starts when the step gets embarrassingly specific.",
-      "One version so small it almost feels silly.",
-      "Then log what happened so the next rep gets easier to choose.",
-      "Cherry helps with tiny social reps, prediction vs reality logs \u2014 without turning it into another vague intention.",
-      "Comment 'rep' if you know the first step is the hardest part."
-    ],
-    "caption": "You know the answer but let the silence win. The fix is not a giant breakthrough. Start with one tiny rep, then make the next one easier to repeat. Cherry: A self-guided practice app for social anxiety that helps users plan tiny real-world social reps and log what actually happened. Try Cherry on Google Play: https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
-    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a small locked door with a colored keyhole and a staircase behind it, palette: warm cream, muted purple, cherry red, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, distressed faces, medical imagery.",
-    "hashtags": [
-      "#socialanxiety",
-      "#overthinking",
-      "#anxietytools",
-      "#confidencebuilding",
-      "#mentalhealthapp"
-    ],
-    "score": 91,
-    "score_breakdown": {
-      "hook_specificity": 12,
-      "retention_chain": 15,
-      "emotional_resonance": 14,
-      "novel_reframe": 15,
-      "app_fit": 10,
-      "safety": 10,
-      "engagement_trigger": 10,
-      "visual_evocativeness": 5
-    },
-    "mutation_notes": [
-      "Make the hook name a more private, concrete behavior from the app avatar's life."
-    ]
-  },
-  {
-    "app": "cherry",
-    "title": "Cherry \u2014 Receipt Printer Rep #005",
-    "hook": "You wait until the conversation moves on so your reply is no longer needed.",
-    "slides": [
-      "You wait until the conversation moves on so your reply is no longer needed.",
-      "The longer you wait, the more the tiny action starts to feel like a whole identity test.",
-      "That is why 'showing up without needing confidence first' needs a tiny repeatable system, not just another good intention.",
-      "The win is not perfection. The win is a repeatable rep.",
-      "One action small enough to complete today.",
-      "Then log what happened so the next rep gets easier to choose.",
-      "Cherry helps with tiny social reps, prediction vs reality logs \u2014 without turning it into another vague intention.",
-      "What is the smallest version of this you could actually do today?"
-    ],
-    "caption": "You wait until the conversation moves on so your reply is no longer needed. The fix is not a giant breakthrough. Start with one tiny rep, then make the next one easier to repeat. Cherry: A self-guided practice app for social anxiety that helps users plan tiny real-world social reps and log what actually happened. Try Cherry on Google Play: https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
-    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a long blank receipt from an old printer turning into a field notebook, palette: warm cream, muted purple, cherry red, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, distressed faces, medical imagery.",
-    "hashtags": [
-      "#socialanxiety",
-      "#overthinking",
-      "#anxietytools",
-      "#confidencebuilding",
-      "#mentalhealthapp"
-    ],
-    "score": 90,
-    "score_breakdown": {
-      "hook_specificity": 13,
-      "retention_chain": 15,
-      "emotional_resonance": 12,
-      "novel_reframe": 15,
-      "app_fit": 10,
-      "safety": 10,
-      "engagement_trigger": 10,
-      "visual_evocativeness": 5
-    },
-    "mutation_notes": [
-      "Make the hook name a more private, concrete behavior from the app avatar's life."
-    ]
-  },
-  {
-    "app": "cherry",
-    "title": "Cherry \u2014 Locked Door Rep #007",
-    "hook": "You let the phone ring because answering feels like jumping off a ledge.",
-    "slides": [
-      "You let the phone ring because answering feels like jumping off a ledge.",
-      "The longer you wait, the more the tiny action starts to feel like a whole identity test.",
-      "That is why 'doing one small social rep' needs a tiny repeatable system, not just another good intention.",
-      "The win is not perfection. The win is a repeatable rep.",
-      "One checkpoint you can actually mark done.",
-      "Then log what happened so the next rep gets easier to choose.",
-      "Cherry helps with tiny social reps, prediction vs reality logs \u2014 without turning it into another vague intention.",
-      "Save this for the next time the goal gets too vague."
-    ],
-    "caption": "You let the phone ring because answering feels like jumping off a ledge. The fix is not a giant breakthrough. Start with one tiny rep, then make the next one easier to repeat. Cherry: A self-guided practice app for social anxiety that helps users plan tiny real-world social reps and log what actually happened. Try Cherry on Google Play: https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
-    "image_prompt": "pixel-art dreamlike editorial backgrounds, symbolic not literal, anxious but hopeful, a small locked door with a colored keyhole and a staircase behind it, palette: warm cream, muted purple, cherry red, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, distressed faces, medical imagery.",
-    "hashtags": [
-      "#socialanxiety",
-      "#overthinking",
-      "#anxietytools",
-      "#confidencebuilding",
-      "#mentalhealthapp"
-    ],
-    "score": 90,
-    "score_breakdown": {
-      "hook_specificity": 13,
-      "retention_chain": 15,
-      "emotional_resonance": 12,
-      "novel_reframe": 15,
-      "app_fit": 10,
-      "safety": 10,
-      "engagement_trigger": 10,
-      "visual_evocativeness": 5
-    },
-    "mutation_notes": [
-      "Make the hook name a more private, concrete behavior from the app avatar's life."
+      "Hook-first pipeline: category=private_moment, hook_score=10/14, breakdown={'private_specificity': 1, 'recognition': 1, 'tension': 0, 'brevity': 2, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 2}.",
+      "Keep Cherry/product mention late; do not lead with app language."
     ]
   }
 ]

@@ -74,49 +74,54 @@ SYMBOLS = [
 
 CHERRY_STYLE_SCRIPTS = [
     {
-        "title": "Cherry — Seen First",
+        "title": "Cherry — They Saw You Seeing Them",
         "slides": [
-            "you saw them first",
-            "then pretended you didn't",
-            "not because you're rude",
-            "because saying hi first felt too loud",
-            "so you waited for the moment to pass",
-            "and called it nothing",
-            "but your brain still counted it",
-            "try one tiny social rep instead"
+            "the worst part is when they see you seeing them",
+            "because now not saying hi feels like a decision",
+            "so you look away first",
+            "and pretend it was nothing",
+            "Cherry is for practicing the tiny version"
         ],
         "symbol": "a tiny red dot hiding behind a streetlight while two paths almost meet",
-        "caption": "That tiny moment still counts. Cherry helps you practice small social reps and log what actually happened. Google Play link in bio."
+        "caption": "A small social rep is still a rep. Cherry is on Google Play."
     },
     {
-        "title": "Cherry — Message Opened",
+        "title": "Cherry — Four Words",
         "slides": [
-            "you opened the message",
-            "closed it",
-            "opened it again",
-            "typed three words",
-            "deleted them",
-            "then decided tomorrow-you would know what to say",
-            "tomorrow-you usually doesn't",
-            "make the reply smaller"
+            "the reply was four words",
+            "somehow it became a project",
+            "you wrote it",
+            "deleted it",
+            "then waited until replying felt weird",
+            "next time, make the reply smaller"
         ],
         "symbol": "a glowing unopened envelope beside a small bridge of cherry-red pixels",
         "caption": "The reply does not have to be perfect. It just has to be small enough to send. Cherry is on Google Play."
     },
     {
-        "title": "Cherry — Twelve Minutes",
+        "title": "Cherry — Half Life",
         "slides": [
-            "cancelling felt good",
-            "for about twelve minutes",
-            "then the room got quiet again",
-            "and the thing you avoided got bigger",
-            "not morally",
-            "just neurologically",
-            "your brain learned the exit",
-            "teach it one small entrance"
+            "cancelling plans has a half-life",
+            "first relief",
+            "then quiet",
+            "then the next invite feels heavier",
+            "not a character flaw",
+            "just a rep your brain never got"
         ],
         "symbol": "a calendar square dissolving into a small open doorway with warm cherry light",
-        "caption": "Avoidance is relief with interest. Cherry helps you build tiny reps without needing confidence first."
+        "caption": "Avoidance is relief with interest. Cherry helps you practice tiny social reps without needing confidence first."
+    },
+    {
+        "title": "Cherry — Not Opening It",
+        "slides": [
+            "you opened the text because not opening it felt worse",
+            "then answering felt worse than opening it",
+            "so it sat there",
+            "getting heavier",
+            "Cherry helps you turn it into one small rep"
+        ],
+        "symbol": "a phone screen glowing like a small moon beside an open window",
+        "caption": "Small reps beat perfect intentions. Cherry is on Google Play."
     }
 ]
 

@@ -3,14 +3,16 @@
 App: Cherry
 Iterations requested: 25
 Candidates generated: 25
-Winners selected: 10
+Winners selected: 12
 
 ## Top Scores
 
+- 99/100 — you saw them first
+- 98/100 — you opened the message
+- 97/100 — cancelling felt good
 - 97/100 — You pretend not to see someone so you do not have to say hi first.
 - 94/100 — You cancel plans and feel relief for exactly 12 minutes.
 - 93/100 — You join the call hoping nobody asks you anything.
-- 93/100 — You type the group chat reply, delete it, then type it again.
 - 92/100 — You rehearse a 10-second sentence for 20 minutes.
 - 92/100 — You open the message, close it, and call that progress.
 - 91/100 — You know the answer but let the silence win.

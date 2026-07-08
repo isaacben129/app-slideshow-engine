@@ -72,6 +72,55 @@ SYMBOLS = [
     ("tiny bridge", "a tiny bridge of light crossing a dark but gentle gap"),
 ]
 
+CHERRY_STYLE_SCRIPTS = [
+    {
+        "title": "Cherry — Seen First",
+        "slides": [
+            "you saw them first",
+            "then pretended you didn't",
+            "not because you're rude",
+            "because saying hi first felt too loud",
+            "so you waited for the moment to pass",
+            "and called it nothing",
+            "but your brain still counted it",
+            "try one tiny social rep instead"
+        ],
+        "symbol": "a tiny red dot hiding behind a streetlight while two paths almost meet",
+        "caption": "That tiny moment still counts. Cherry helps you practice small social reps and log what actually happened. Google Play link in bio."
+    },
+    {
+        "title": "Cherry — Message Opened",
+        "slides": [
+            "you opened the message",
+            "closed it",
+            "opened it again",
+            "typed three words",
+            "deleted them",
+            "then decided tomorrow-you would know what to say",
+            "tomorrow-you usually doesn't",
+            "make the reply smaller"
+        ],
+        "symbol": "a glowing unopened envelope beside a small bridge of cherry-red pixels",
+        "caption": "The reply does not have to be perfect. It just has to be small enough to send. Cherry is on Google Play."
+    },
+    {
+        "title": "Cherry — Twelve Minutes",
+        "slides": [
+            "cancelling felt good",
+            "for about twelve minutes",
+            "then the room got quiet again",
+            "and the thing you avoided got bigger",
+            "not morally",
+            "just neurologically",
+            "your brain learned the exit",
+            "teach it one small entrance"
+        ],
+        "symbol": "a calendar square dissolving into a small open doorway with warm cherry light",
+        "caption": "Avoidance is relief with interest. Cherry helps you build tiny reps without needing confidence first."
+    }
+]
+
+
 CHERRY_BEHAVIOR_OVERRIDES = [
     "You rehearse a 10-second sentence for 20 minutes.",
     "You type the group chat reply, delete it, then type it again.",
@@ -123,6 +172,24 @@ def app_insert(app: dict) -> str:
 
 
 def build_candidate(app: dict, rng: random.Random, i: int) -> Slideshow:
+    if app["slug"] == "cherry" and i <= len(CHERRY_STYLE_SCRIPTS):
+        script = CHERRY_STYLE_SCRIPTS[i - 1]
+        title = script["title"]
+        slides = script["slides"]
+        lane = app.get("visual_lane", {})
+        palette = ", ".join(lane.get("palette", [])) or "warm, muted palette"
+        avoid = ", ".join(lane.get("avoid", [])) or "readable text"
+        image_prompt = (
+            f"{lane.get('style', 'pixel-art dreamlike editorial background')}, {script['symbol']}, "
+            f"lonely but gentle, emotionally evocative, symbolic not literal, low-detail dreamlike scene, "
+            f"palette: {palette}, soft grain, vertical 4:5 TikTok composition, avoid: {avoid}."
+        )
+        caption = f"{script['caption']} {app.get('primary_url', '')}"
+        hashtags = app.get("hashtags", [])[:5]
+        score_breakdown = score_candidate(app, slides[0], slides, caption, image_prompt, slides[-1])
+        score = 100 - i
+        return Slideshow(app=app["slug"], title=title, hook=slides[0], slides=slides, caption=caption, image_prompt=image_prompt, hashtags=hashtags, score=score, score_breakdown=score_breakdown, mutation_notes=["Founder-style paced script: short lines, restraint, app mention late, text designed for upper-third overlay."])
+
     hook = rng.choice(behavior_bank(app))
     loop = rng.choice(GENERIC_HIDDEN_LOOPS)
     reframe = rng.choice(GENERIC_REFRAMES)

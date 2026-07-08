@@ -55,34 +55,36 @@ def render_slide(bg: Image.Image, text: str, idx: int, total: int, out: Path):
     img = bg.copy().convert("RGBA")
     overlay = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     od = ImageDraw.Draw(overlay)
-    # dark translucent text panel
-    margin = 90
-    panel_top = 470
-    panel_bottom = 1390
-    od.rounded_rectangle((margin, panel_top, W - margin, panel_bottom), radius=46, fill=(18, 12, 28, 188), outline=(255, 246, 230, 50), width=3)
-    # progress dots
-    dot_y = 1660
-    total_w = total * 28 + (total - 1) * 18
+    # No black overlay panel. Add only subtle top-to-bottom contrast so text stays readable.
+    for ygrad in range(0, 900):
+        alpha = int(82 * (1 - ygrad / 900))
+        od.line((0, ygrad, W, ygrad), fill=(15, 10, 24, max(alpha, 0)))
+    # progress dots stay low and quiet
+    dot_y = 1710
+    total_w = total * 20 + (total - 1) * 16
     start_x = (W - total_w) // 2
     for i in range(total):
-        fill = (196, 30, 58, 255) if i == idx - 1 else (255, 246, 230, 110)
-        x = start_x + i * 46
-        od.ellipse((x, dot_y, x + 28, dot_y + 28), fill=fill)
+        fill = (196, 30, 58, 235) if i == idx - 1 else (255, 246, 230, 95)
+        x = start_x + i * 36
+        od.ellipse((x, dot_y, x + 20, dot_y + 20), fill=fill)
     img = Image.alpha_composite(img, overlay)
     draw = ImageDraw.Draw(img)
-    font, lines, line_h = fit_text(draw, text, W - 2 * (margin + 70), panel_bottom - panel_top - 180)
-    block_h = len(lines) * line_h
-    y = panel_top + ((panel_bottom - panel_top) - block_h) // 2
+    margin = 118
+    # Upper-third baseline: text block begins high and should finish around/before upper third.
+    text_top = 245
+    text_height = 520
+    font, lines, line_h = fit_text(draw, text, W - 2 * margin, text_height, start_size=44)
+    y = text_top
     for line in lines:
         bbox = draw.textbbox((0, 0), line, font=font)
-        x = (W - (bbox[2] - bbox[0])) // 2
-        # shadow
-        draw.text((x + 4, y + 4), line, font=font, fill=(0, 0, 0, 170))
-        draw.text((x, y), line, font=font, fill=(255, 246, 230, 255))
+        x = margin
+        # soft shadow only; no box
+        draw.text((x + 2, y + 2), line, font=font, fill=(0, 0, 0, 135))
+        draw.text((x, y), line, font=font, fill=(255, 246, 230, 248))
         y += line_h
-    small_font = ImageFont.truetype(FONT_REG, 34)
-    draw.text((82, 1780), "Cherry • social reps", font=small_font, fill=(255, 246, 230, 190))
-    draw.text((W - 190, 1780), f"{idx}/{total}", font=small_font, fill=(255, 246, 230, 190))
+    small_font = ImageFont.truetype(FONT_REG, 28)
+    draw.text((82, 1810), "Cherry", font=small_font, fill=(255, 246, 230, 150))
+    draw.text((W - 132, 1810), f"{idx}/{total}", font=small_font, fill=(255, 246, 230, 150))
     out.parent.mkdir(parents=True, exist_ok=True)
     img.convert("RGB").save(out, quality=94)
 

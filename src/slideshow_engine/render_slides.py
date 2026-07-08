@@ -70,17 +70,17 @@ def render_slide(bg: Image.Image, text: str, idx: int, total: int, out: Path):
     img = Image.alpha_composite(img, overlay)
     draw = ImageDraw.Draw(img)
     margin = 118
-    # Upper-third baseline: text block begins high and should finish around/before upper third.
-    text_top = 245
-    text_height = 520
+    # Text sits just below the upper third: high enough for slideshow style, not pinned to the top.
+    text_top = 360
+    text_height = 560
     font, lines, line_h = fit_text(draw, text, W - 2 * margin, text_height, start_size=44)
     y = text_top
     for line in lines:
         bbox = draw.textbbox((0, 0), line, font=font)
-        x = margin
-        # soft shadow only; no box
-        draw.text((x + 2, y + 2), line, font=font, fill=(0, 0, 0, 135))
-        draw.text((x, y), line, font=font, fill=(255, 246, 230, 248))
+        text_w = bbox[2] - bbox[0]
+        x = (W - text_w) // 2
+        # Tiny black outline around letters, not a drop shadow and not a background box.
+        draw.text((x, y), line, font=font, fill=(255, 246, 230, 248), stroke_width=2, stroke_fill=(8, 6, 12, 210))
         y += line_h
     small_font = ImageFont.truetype(FONT_REG, 28)
     draw.text((82, 1810), "Cherry", font=small_font, fill=(255, 246, 230, 150))

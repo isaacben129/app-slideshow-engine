@@ -26,7 +26,7 @@ Cherry is for tiny social reps after the freeze. https://play.google.com/store/a
 
 ### Master Image Prompt
 
-pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful, a frozen empty chair by a cafe window thawing into one small cherry-red dot, emotionally evocative through real-world place, lively but moody, saturated deep colors, palette: deep cherry red, rich plum, midnight blue, emerald green, golden amber, warm cream, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: readable text, distressed faces, medical imagery, phones, speech bubbles, screens, devices, laptops, tablets, headphones.
+pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful, a frozen empty chair by a cafe window thawing into one small cherry-red dot, emotionally evocative through a real-world setting rendered as clean pixel art, lively but moody, saturated deep colors, palette: deep cherry red, rich plum, midnight blue, emerald green, golden amber, warm cream, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: readable text, distressed faces, medical imagery, phones, speech bubbles, screens, devices, laptops, tablets, headphones.
 
 ### Slide Image Prompts
 
@@ -69,7 +69,7 @@ Cherry helps you make social reps small enough to happen. https://play.google.co
 
 ### Master Image Prompt
 
-pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful, several tiny empty chair by a cafe windows drifting past one quiet red dot, emotionally evocative through real-world place, lively but moody, saturated deep colors, palette: deep cherry red, rich plum, midnight blue, emerald green, golden amber, warm cream, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: readable text, distressed faces, medical imagery, phones, speech bubbles, screens, devices, laptops, tablets, headphones.
+pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful, several tiny empty chair by a cafe windows drifting past one quiet red dot, emotionally evocative through a real-world setting rendered as clean pixel art, lively but moody, saturated deep colors, palette: deep cherry red, rich plum, midnight blue, emerald green, golden amber, warm cream, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: readable text, distressed faces, medical imagery, phones, speech bubbles, screens, devices, laptops, tablets, headphones.
 
 ### Slide Image Prompts
 
@@ -112,7 +112,7 @@ Cherry helps you log what happened and pick one smaller social rep. https://play
 
 ### Master Image Prompt
 
-pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful, a tiny faded paper receipt on a counter counting invisible marks beside an open paper page, emotionally evocative through real-world place, lively but moody, saturated deep colors, palette: deep cherry red, rich plum, midnight blue, emerald green, golden amber, warm cream, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: readable text, distressed faces, medical imagery, phones, speech bubbles, screens, devices, laptops, tablets, headphones.
+pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful, a tiny faded paper receipt on a counter counting invisible marks beside an open paper page, emotionally evocative through a real-world setting rendered as clean pixel art, lively but moody, saturated deep colors, palette: deep cherry red, rich plum, midnight blue, emerald green, golden amber, warm cream, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: readable text, distressed faces, medical imagery, phones, speech bubbles, screens, devices, laptops, tablets, headphones.
 
 ### Slide Image Prompts
 
@@ -155,7 +155,7 @@ Small replies beat perfect replies. Cherry is on Google Play. https://play.googl
 
 ### Master Image Prompt
 
-pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful, an sealed note on a table slowly growing a shadow while a cherry-red dot waits beside it, emotionally evocative through real-world place, lively but moody, saturated deep colors, palette: deep cherry red, rich plum, midnight blue, emerald green, golden amber, warm cream, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: readable text, distressed faces, medical imagery, phones, speech bubbles, screens, devices, laptops, tablets, headphones.
+pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful, an sealed note on a table slowly growing a shadow while a cherry-red dot waits beside it, emotionally evocative through a real-world setting rendered as clean pixel art, lively but moody, saturated deep colors, palette: deep cherry red, rich plum, midnight blue, emerald green, golden amber, warm cream, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: readable text, distressed faces, medical imagery, phones, speech bubbles, screens, devices, laptops, tablets, headphones.
 
 ### Slide Image Prompts
 
@@ -199,7 +199,7 @@ The smallest honest reply is often the rep. Cherry is on Google Play. https://pl
 
 ### Master Image Prompt
 
-pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful, a glowing warm window light moon over a small paper page and a cherry-red dot, emotionally evocative through real-world place, lively but moody, saturated deep colors, palette: deep cherry red, rich plum, midnight blue, emerald green, golden amber, warm cream, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: readable text, distressed faces, medical imagery, phones, speech bubbles, screens, devices, laptops, tablets, headphones.
+pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful, a glowing warm window light moon over a small paper page and a cherry-red dot, emotionally evocative through a real-world setting rendered as clean pixel art, lively but moody, saturated deep colors, palette: deep cherry red, rich plum, midnight blue, emerald green, golden amber, warm cream, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: readable text, distressed faces, medical imagery, phones, speech bubbles, screens, devices, laptops, tablets, headphones.
 
 ### Slide Image Prompts
 
@@ -244,7 +244,7 @@ Cherry is for the tiny social reps nobody else sees. https://play.google.com/sto
 
 ### Master Image Prompt
 
-pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful, two soft supermarket aisles becoming parallel pixel paths that nearly meet, emotionally evocative through real-world place, lively but moody, saturated deep colors, palette: deep cherry red, rich plum, midnight blue, emerald green, golden amber, warm cream, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: readable text, distressed faces, medical imagery, phones, speech bubbles, screens, devices, laptops, tablets, headphones.
+pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful, two soft supermarket aisles becoming parallel pixel paths that nearly meet, emotionally evocative through a real-world setting rendered as clean pixel art, lively but moody, saturated deep colors, palette: deep cherry red, rich plum, midnight blue, emerald green, golden amber, warm cream, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: readable text, distressed faces, medical imagery, phones, speech bubbles, screens, devices, laptops, tablets, headphones.
 
 ### Slide Image Prompts
 
@@ -287,7 +287,7 @@ Do not wait to feel confident. Build tiny evidence first with Cherry. https://pl
 
 ### Master Image Prompt
 
-pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful, a small staircase made of cherry-red pixels under a quiet streetlight, emotionally evocative through real-world place, lively but moody, saturated deep colors, palette: deep cherry red, rich plum, midnight blue, emerald green, golden amber, warm cream, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: readable text, distressed faces, medical imagery, phones, speech bubbles, screens, devices, laptops, tablets, headphones.
+pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful, a small staircase made of cherry-red pixels under a quiet streetlight, emotionally evocative through a real-world setting rendered as clean pixel art, lively but moody, saturated deep colors, palette: deep cherry red, rich plum, midnight blue, emerald green, golden amber, warm cream, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: readable text, distressed faces, medical imagery, phones, speech bubbles, screens, devices, laptops, tablets, headphones.
 
 ### Slide Image Prompts
 
@@ -328,7 +328,7 @@ Cherry helps turn social moments into small reps instead of identity tests. http
 
 ### Master Image Prompt
 
-pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful, two tiny empty chair by a cafe windows passing like ships under a muted purple sky, emotionally evocative through real-world place, lively but moody, saturated deep colors, palette: deep cherry red, rich plum, midnight blue, emerald green, golden amber, warm cream, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: readable text, distressed faces, medical imagery, phones, speech bubbles, screens, devices, laptops, tablets, headphones.
+pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful, two tiny empty chair by a cafe windows passing like ships under a muted purple sky, emotionally evocative through a real-world setting rendered as clean pixel art, lively but moody, saturated deep colors, palette: deep cherry red, rich plum, midnight blue, emerald green, golden amber, warm cream, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: readable text, distressed faces, medical imagery, phones, speech bubbles, screens, devices, laptops, tablets, headphones.
 
 ### Slide Image Prompts
 
@@ -370,7 +370,7 @@ Cherry helps you practice the smaller version before the big one. https://play.g
 
 ### Master Image Prompt
 
-pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful, a warm window light glowing like a red moon beside a quiet open window, emotionally evocative through real-world place, lively but moody, saturated deep colors, palette: deep cherry red, rich plum, midnight blue, emerald green, golden amber, warm cream, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: readable text, distressed faces, medical imagery, phones, speech bubbles, screens, devices, laptops, tablets, headphones.
+pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful, a warm window light glowing like a red moon beside a quiet open window, emotionally evocative through a real-world setting rendered as clean pixel art, lively but moody, saturated deep colors, palette: deep cherry red, rich plum, midnight blue, emerald green, golden amber, warm cream, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: readable text, distressed faces, medical imagery, phones, speech bubbles, screens, devices, laptops, tablets, headphones.
 
 ### Slide Image Prompts
 
@@ -414,7 +414,7 @@ Avoidance is relief with interest. Cherry helps you practice tiny social reps wi
 
 ### Master Image Prompt
 
-pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful, a doorway marked by late light dissolving into a small open doorway with warm cherry light, emotionally evocative through real-world place, lively but moody, saturated deep colors, palette: deep cherry red, rich plum, midnight blue, emerald green, golden amber, warm cream, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: readable text, distressed faces, medical imagery, phones, speech bubbles, screens, devices, laptops, tablets, headphones.
+pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful, a doorway marked by late light dissolving into a small open doorway with warm cherry light, emotionally evocative through a real-world setting rendered as clean pixel art, lively but moody, saturated deep colors, palette: deep cherry red, rich plum, midnight blue, emerald green, golden amber, warm cream, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: readable text, distressed faces, medical imagery, phones, speech bubbles, screens, devices, laptops, tablets, headphones.
 
 ### Slide Image Prompts
 
@@ -458,7 +458,7 @@ Cherry helps with the tiny moment before the social move. https://play.google.co
 
 ### Master Image Prompt
 
-pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful, a tiny bridge of light stopping one pixel before the other side, emotionally evocative through real-world place, lively but moody, saturated deep colors, palette: deep cherry red, rich plum, midnight blue, emerald green, golden amber, warm cream, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: readable text, distressed faces, medical imagery, phones, speech bubbles, screens, devices, laptops, tablets, headphones.
+pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful, a tiny bridge of light stopping one pixel before the other side, emotionally evocative through a real-world setting rendered as clean pixel art, lively but moody, saturated deep colors, palette: deep cherry red, rich plum, midnight blue, emerald green, golden amber, warm cream, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: readable text, distressed faces, medical imagery, phones, speech bubbles, screens, devices, laptops, tablets, headphones.
 
 ### Slide Image Prompts
 
@@ -499,7 +499,7 @@ Cherry is for shrinking social reps until they are doable. https://play.google.c
 
 ### Master Image Prompt
 
-pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful, a blinking cursor turning into a tiny doorway under warm light, emotionally evocative through real-world place, lively but moody, saturated deep colors, palette: deep cherry red, rich plum, midnight blue, emerald green, golden amber, warm cream, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: readable text, distressed faces, medical imagery, phones, speech bubbles, screens, devices, laptops, tablets, headphones.
+pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful, a blinking cursor turning into a tiny doorway under warm light, emotionally evocative through a real-world setting rendered as clean pixel art, lively but moody, saturated deep colors, palette: deep cherry red, rich plum, midnight blue, emerald green, golden amber, warm cream, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: readable text, distressed faces, medical imagery, phones, speech bubbles, screens, devices, laptops, tablets, headphones.
 
 ### Slide Image Prompts
 

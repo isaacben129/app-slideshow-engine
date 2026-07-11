@@ -1,518 +1,530 @@
 [
   {
     "app": "held",
-    "title": "Held \u2014 Receipt Printer Rep #003",
-    "hook": "You do the tiny workaround instead of feeling guilty about inconsistent prayer.",
-    "hook_category": "private_moment",
-    "hook_score": 9,
+    "title": "Held — ok_this_is_kind_of_embarrassing_but_i_fo",
+    "hook": "ok this is kind of embarrassing but I found the text where I said 'I'm praying for you'… and I know for a fact I never actually did",
+    "hook_category": "story",
+    "hook_score": 14,
+    "reaction_face": "caught-out, half-laughing at myself",
+    "format": "ugc_reaction",
     "slides": [
-      "You do the tiny workaround instead of feeling guilty about inconsistent prayer.",
-      "Your brain keeps choosing the familiar loop because it has no smaller script to run.",
-      "That is why 'actually follow through' needs a tiny repeatable system, not just another good intention.",
-      "The win is not perfection. The win is a repeatable rep.",
-      "One action small enough to complete today.",
-      "Held helps with one prayer partner, small daily rhythm \u2014 without turning it into another vague intention."
+      "ok this is kind of embarrassing but I found the text where I said 'I'm praying for you'… and I know for a fact I never actually did",
+      "it was from like three weeks ago. she was going through something real",
+      "and I meant it when I typed it. I just… never did the thing",
+      "then I realized I do this constantly. I promise the prayer and forget the person",
+      "turns out it's almost impossible to hold a rhythm like that alone. nobody's holding the other end",
+      "that's the whole reason I'm on the Held waitlist. one person, one prayer, one day at a time"
     ],
-    "caption": "You do the tiny workaround instead of feeling guilty about inconsistent prayer. Start with one tiny rep, then make the next one easier to repeat. Held: A quiet prayer partner app that helps two Christians actually follow through in prayer \u2014 one prayer, one person, one day at a time. Join the Held waitlist: TODO",
-    "image_prompt": "pixel-art quiet sacred editorial backgrounds, symbolic not literal, gentle and reverent, a long blank receipt from an old printer turning into a field notebook, palette: warm cream, soft blue, candle gold, muted violet, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, cheesy religious clipart, literal Jesus depictions, guilt/shame imagery.",
+    "caption": "the 'I'll pray for you' → forget → feel bad loop is so real. join the Held waitlist (link in bio) — one prayer partner, no groups, no guilt",
     "hashtags": [
+      "#christiantiktok",
       "#prayer",
-      "#christianapp",
-      "#faithhabits",
+      "#faith",
       "#prayerpartner",
-      "#christiantiktok"
+      "#christian",
+      "#faithhabits"
     ],
+    "image_prompt": "SLIDE 1: candid amateur phone-selfie of a real person with a genuine reaction (caught-out, half-laughing at myself), natural indoor light, imperfect framing, UGC TikTok aesthetic, no text. SLIDES 2-6: quiet sacred pixel-art editorial scenes, symbolic not literal, warm cream / soft blue / candle gold / muted violet, gentle and reverent, lots of negative space for centered text, no faces, no readable text, no religious clipart, no literal Jesus depictions, no guilt imagery.",
+    "slide_image_prompts": [],
     "score": 100,
     "score_breakdown": {
-      "retention_chain": 12,
-      "emotional_resonance": 8,
-      "novel_reframe": 14,
+      "retention_chain": 18,
+      "emotional_resonance": 11,
+      "novel_reframe": 13,
       "swipe_bridge": 10,
       "app_fit_late": 10,
-      "late_cta": 3,
+      "late_cta": 8,
       "safety": 10,
       "engagement_trigger": 8,
-      "visual_evocativeness": 3
+      "visual_evocativeness": 5
     },
     "mutation_notes": [
-      "Hook-first pipeline: category=private_moment, hook_score=9/14, breakdown={'private_specificity': 2, 'recognition': 1, 'tension': 0, 'brevity': 1, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 1}.",
-      "Reject unless manually approved: hook score is below scheduling threshold.",
-      "Tighten slide count/line length; first swipe path is not crisp enough.",
-      "Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.",
-      "Make visual symbol more evocative and leave more negative space for centered text."
+      "Native UGC open loop: reaction-face slide 1, one loop opened per slide, product only after payoff.",
+      "Voice: first-person confessional, concrete specific, no ad cadence."
     ]
   },
   {
     "app": "held",
-    "title": "Held \u2014 Blinking Cursor Rep #019",
-    "hook": "You do the tiny workaround instead of saying you will pray and forgetting.",
-    "hook_category": "private_moment",
-    "hook_score": 9,
+    "title": "Held — someone_prayed_for_me_out_loud_once_and",
+    "hook": "someone prayed for me out loud once and I realized I hadn't been prayed for, by name, in probably a year",
+    "hook_category": "story",
+    "hook_score": 14,
+    "reaction_face": "quiet, a little emotional",
+    "format": "ugc_reaction",
     "slides": [
-      "You do the tiny workaround instead of saying you will pray and forgetting.",
-      "Your brain keeps choosing the familiar loop because it has no smaller script to run.",
-      "That is why 'build a simple prayer rhythm with one person' needs a tiny repeatable system, not just another good intention.",
-      "The goal is not to transform overnight.",
-      "One note afterward: what did I expect, and what actually happened?",
-      "Held helps with one prayer partner, small daily rhythm \u2014 without turning it into another vague intention."
+      "someone prayed for me out loud once and I realized I hadn't been prayed for, by name, in probably a year",
+      "not in a group. not 'lord be with everyone here'. me. by name",
+      "and it wrecked me a little, in a good way",
+      "then it hit me — I wasn't praying for anyone by name either",
+      "we're all praying into the void alone and calling it a dry season",
+      "Held is literally just one partner who prays for you by name. that's it. waitlist's open"
     ],
-    "caption": "You do the tiny workaround instead of saying you will pray and forgetting. Start with one tiny rep, then make the next one easier to repeat. Held: A quiet prayer partner app that helps two Christians actually follow through in prayer \u2014 one prayer, one person, one day at a time. Join the Held waitlist: TODO",
-    "image_prompt": "pixel-art quiet sacred editorial backgrounds, symbolic not literal, gentle and reverent, a glowing blinking cursor in an empty message box slowly becoming a tiny open doorway, palette: warm cream, soft blue, candle gold, muted violet, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, cheesy religious clipart, literal Jesus depictions, guilt/shame imagery.",
+    "caption": "the 'I'll pray for you' → forget → feel bad loop is so real. join the Held waitlist (link in bio) — one prayer partner, no groups, no guilt",
     "hashtags": [
+      "#christiantiktok",
       "#prayer",
-      "#christianapp",
-      "#faithhabits",
+      "#faith",
       "#prayerpartner",
-      "#christiantiktok"
+      "#christian",
+      "#faithhabits"
     ],
+    "image_prompt": "SLIDE 1: candid amateur phone-selfie of a real person with a genuine reaction (quiet, a little emotional), natural indoor light, imperfect framing, UGC TikTok aesthetic, no text. SLIDES 2-6: quiet sacred pixel-art editorial scenes, symbolic not literal, warm cream / soft blue / candle gold / muted violet, gentle and reverent, lots of negative space for centered text, no faces, no readable text, no religious clipart, no literal Jesus depictions, no guilt imagery.",
+    "slide_image_prompts": [],
     "score": 100,
     "score_breakdown": {
-      "retention_chain": 12,
-      "emotional_resonance": 8,
-      "novel_reframe": 14,
+      "retention_chain": 18,
+      "emotional_resonance": 11,
+      "novel_reframe": 13,
       "swipe_bridge": 10,
       "app_fit_late": 10,
-      "late_cta": 3,
+      "late_cta": 8,
       "safety": 10,
       "engagement_trigger": 8,
-      "visual_evocativeness": 3
+      "visual_evocativeness": 5
     },
     "mutation_notes": [
-      "Hook-first pipeline: category=private_moment, hook_score=9/14, breakdown={'private_specificity': 2, 'recognition': 1, 'tension': 0, 'brevity': 1, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 1}.",
-      "Reject unless manually approved: hook score is below scheduling threshold.",
-      "Tighten slide count/line length; first swipe path is not crisp enough.",
-      "Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.",
-      "Make visual symbol more evocative and leave more negative space for centered text."
+      "Native UGC open loop: reaction-face slide 1, one loop opened per slide, product only after payoff.",
+      "Voice: first-person confessional, concrete specific, no ad cadence."
     ]
   },
   {
     "app": "held",
-    "title": "Held \u2014 Single Candle Rep #001",
-    "hook": "You know feeling guilty about inconsistent prayer matters, but somehow it becomes tomorrow's problem.",
-    "hook_category": "private_moment",
-    "hook_score": 8,
+    "title": "Held — not_me_realizing_ive_said_ill_pray_for_y",
+    "hook": "not me realizing I've said 'I'll pray for you' to like four people this month and I couldn't tell you a single one I actually followed through on",
+    "hook_category": "confessional",
+    "hook_score": 14,
+    "reaction_face": "shock, hand over mouth",
+    "format": "ugc_reaction",
     "slides": [
-      "You know feeling guilty about inconsistent prayer matters, but somehow it becomes tomorrow's problem.",
-      "You cannot build trust with yourself from intentions alone. You need repeatable evidence.",
-      "That is why 'actually follow through' needs a tiny repeatable system, not just another good intention.",
-      "The win is not perfection. The win is a repeatable rep.",
-      "One action small enough to complete today.",
-      "Held helps with one prayer partner, small daily rhythm \u2014 without turning it into another vague intention."
+      "not me realizing I've said 'I'll pray for you' to like four people this month and I couldn't tell you a single one I actually followed through on",
+      "four people trusted me with something heavy",
+      "and my follow-through was basically zero. not because I don't care",
+      "because the second I locked my phone, it was gone",
+      "turns out consistency was never a willpower thing. it's a 'nobody's with me in it' thing",
+      "found an app for exactly this. one prayer partner, tiny daily rhythm. it's called Held"
     ],
-    "caption": "You know feeling guilty about inconsistent prayer matters, but somehow it becomes tomorrow's problem. Start with one tiny rep, then make the next one easier to repeat. Held: A quiet prayer partner app that helps two Christians actually follow through in prayer \u2014 one prayer, one person, one day at a time. Join the Held waitlist: TODO",
-    "image_prompt": "pixel-art quiet sacred editorial backgrounds, symbolic not literal, gentle and reverent, a single candle beside two small cups on a quiet table, palette: warm cream, soft blue, candle gold, muted violet, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, cheesy religious clipart, literal Jesus depictions, guilt/shame imagery.",
+    "caption": "the 'I'll pray for you' → forget → feel bad loop is so real. join the Held waitlist (link in bio) — one prayer partner, no groups, no guilt",
     "hashtags": [
+      "#christiantiktok",
       "#prayer",
-      "#christianapp",
-      "#faithhabits",
+      "#faith",
       "#prayerpartner",
-      "#christiantiktok"
+      "#christian",
+      "#faithhabits"
     ],
+    "image_prompt": "SLIDE 1: candid amateur phone-selfie of a real person with a genuine reaction (shock, hand over mouth), natural indoor light, imperfect framing, UGC TikTok aesthetic, no text. SLIDES 2-6: quiet sacred pixel-art editorial scenes, symbolic not literal, warm cream / soft blue / candle gold / muted violet, gentle and reverent, lots of negative space for centered text, no faces, no readable text, no religious clipart, no literal Jesus depictions, no guilt imagery.",
+    "slide_image_prompts": [],
     "score": 100,
     "score_breakdown": {
-      "retention_chain": 12,
-      "emotional_resonance": 8,
-      "novel_reframe": 14,
+      "retention_chain": 18,
+      "emotional_resonance": 11,
+      "novel_reframe": 13,
       "swipe_bridge": 10,
       "app_fit_late": 10,
-      "late_cta": 3,
+      "late_cta": 8,
       "safety": 10,
       "engagement_trigger": 8,
-      "visual_evocativeness": 3
+      "visual_evocativeness": 5
     },
     "mutation_notes": [
-      "Hook-first pipeline: category=private_moment, hook_score=8/14, breakdown={'private_specificity': 2, 'recognition': 1, 'tension': 0, 'brevity': 1, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 0}.",
-      "Reject unless manually approved: hook score is below scheduling threshold.",
-      "Tighten slide count/line length; first swipe path is not crisp enough.",
-      "Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.",
-      "Make visual symbol more evocative and leave more negative space for centered text."
+      "Native UGC open loop: reaction-face slide 1, one loop opened per slide, product only after payoff.",
+      "Voice: first-person confessional, concrete specific, no ad cadence."
     ]
   },
   {
     "app": "held",
-    "title": "Held \u2014 Blinking Cursor Rep #002",
-    "hook": "You keep meaning to feeling guilty about inconsistent prayer, but the moment keeps passing.",
-    "hook_category": "private_moment",
-    "hook_score": 8,
+    "title": "Held — a_guy_at_my_church_asked_how_my_prayer_l",
+    "hook": "a guy at my church asked how my prayer life was going and I lied. right to his face",
+    "hook_category": "story",
+    "hook_score": 14,
+    "reaction_face": "frozen, caught lying",
+    "format": "ugc_reaction",
     "slides": [
-      "You keep meaning to feeling guilty about inconsistent prayer, but the moment keeps passing.",
-      "Your brain keeps choosing the familiar loop because it has no smaller script to run.",
-      "That is why 'actually follow through' needs a tiny repeatable system, not just another good intention.",
-      "The goal is not to transform overnight.",
-      "One version so small it almost feels silly.",
-      "Held helps with one prayer partner, small daily rhythm \u2014 without turning it into another vague intention."
+      "a guy at my church asked how my prayer life was going and I lied. right to his face",
+      "'yeah, it's good, staying consistent' — total fabrication",
+      "the truth is I'd prayed like twice that whole month",
+      "and I think a huge amount of us are lying about the exact same thing on Sundays",
+      "the guilt loop is real: you forget, you avoid it, then you feel like a fraud, repeat",
+      "the thing that broke it for me was just having one partner. that's the whole idea behind Held"
     ],
-    "caption": "You keep meaning to feeling guilty about inconsistent prayer, but the moment keeps passing. Start with one tiny rep, then make the next one easier to repeat. Held: A quiet prayer partner app that helps two Christians actually follow through in prayer \u2014 one prayer, one person, one day at a time. Join the Held waitlist: TODO",
-    "image_prompt": "pixel-art quiet sacred editorial backgrounds, symbolic not literal, gentle and reverent, a glowing blinking cursor in an empty message box slowly becoming a tiny open doorway, palette: warm cream, soft blue, candle gold, muted violet, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, cheesy religious clipart, literal Jesus depictions, guilt/shame imagery.",
+    "caption": "the 'I'll pray for you' → forget → feel bad loop is so real. join the Held waitlist (link in bio) — one prayer partner, no groups, no guilt",
     "hashtags": [
+      "#christiantiktok",
       "#prayer",
-      "#christianapp",
-      "#faithhabits",
+      "#faith",
       "#prayerpartner",
-      "#christiantiktok"
+      "#christian",
+      "#faithhabits"
     ],
+    "image_prompt": "SLIDE 1: candid amateur phone-selfie of a real person with a genuine reaction (frozen, caught lying), natural indoor light, imperfect framing, UGC TikTok aesthetic, no text. SLIDES 2-6: quiet sacred pixel-art editorial scenes, symbolic not literal, warm cream / soft blue / candle gold / muted violet, gentle and reverent, lots of negative space for centered text, no faces, no readable text, no religious clipart, no literal Jesus depictions, no guilt imagery.",
+    "slide_image_prompts": [],
     "score": 100,
     "score_breakdown": {
-      "retention_chain": 12,
-      "emotional_resonance": 8,
-      "novel_reframe": 14,
+      "retention_chain": 18,
+      "emotional_resonance": 11,
+      "novel_reframe": 13,
       "swipe_bridge": 10,
       "app_fit_late": 10,
-      "late_cta": 3,
+      "late_cta": 8,
       "safety": 10,
       "engagement_trigger": 8,
-      "visual_evocativeness": 3
+      "visual_evocativeness": 5
     },
     "mutation_notes": [
-      "Hook-first pipeline: category=private_moment, hook_score=8/14, breakdown={'private_specificity': 2, 'recognition': 1, 'tension': 0, 'brevity': 1, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 0}.",
-      "Reject unless manually approved: hook score is below scheduling threshold.",
-      "Tighten slide count/line length; first swipe path is not crisp enough.",
-      "Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.",
-      "Make visual symbol more evocative and leave more negative space for centered text."
+      "Native UGC open loop: reaction-face slide 1, one loop opened per slide, product only after payoff.",
+      "Voice: first-person confessional, concrete specific, no ad cadence."
     ]
   },
   {
     "app": "held",
-    "title": "Held \u2014 Unopened Envelope Rep #008",
-    "hook": "You know not wanting another noisy group chat matters, but somehow it becomes tomorrow's problem.",
-    "hook_category": "private_moment",
-    "hook_score": 8,
+    "title": "Held — i_didnt_think_id_get_emotional_over_a_pr",
+    "hook": "I didn't think I'd get emotional over a prayer app but I opened this thing and immediately had to sit down",
+    "hook_category": "confessional",
+    "hook_score": 14,
+    "reaction_face": "overwhelmed, sitting down",
+    "format": "ugc_reaction",
     "slides": [
-      "You know not wanting another noisy group chat matters, but somehow it becomes tomorrow's problem.",
-      "You cannot build trust with yourself from intentions alone. You need repeatable evidence.",
-      "That is why 'feel quietly held' needs a tiny repeatable system, not just another good intention.",
-      "Consistency usually starts when the step gets embarrassingly specific.",
-      "One action small enough to complete today.",
-      "Held helps with one prayer partner, small daily rhythm \u2014 without turning it into another vague intention."
+      "I didn't think I'd get emotional over a prayer app but I opened this thing and immediately had to sit down",
+      "it didn't ask me to join a group or post anything",
+      "it just asked who I wanted to pray with. one person",
+      "and I realized I couldn't remember the last time prayer felt that small and that safe",
+      "no performance. no 47-person chat. no guilt tracker screaming at me",
+      "it's called Held and it's still prelaunch — waitlist's in the bio"
     ],
-    "caption": "You know not wanting another noisy group chat matters, but somehow it becomes tomorrow's problem. Start with one tiny rep, then make the next one easier to repeat. Held: A quiet prayer partner app that helps two Christians actually follow through in prayer \u2014 one prayer, one person, one day at a time. Join the Held waitlist: TODO",
-    "image_prompt": "pixel-art quiet sacred editorial backgrounds, symbolic not literal, gentle and reverent, an unopened envelope on a table with a tiny bridge of light behind it, palette: warm cream, soft blue, candle gold, muted violet, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, cheesy religious clipart, literal Jesus depictions, guilt/shame imagery.",
+    "caption": "the 'I'll pray for you' → forget → feel bad loop is so real. join the Held waitlist (link in bio) — one prayer partner, no groups, no guilt",
     "hashtags": [
+      "#christiantiktok",
       "#prayer",
-      "#christianapp",
-      "#faithhabits",
+      "#faith",
       "#prayerpartner",
-      "#christiantiktok"
+      "#christian",
+      "#faithhabits"
     ],
+    "image_prompt": "SLIDE 1: candid amateur phone-selfie of a real person with a genuine reaction (overwhelmed, sitting down), natural indoor light, imperfect framing, UGC TikTok aesthetic, no text. SLIDES 2-6: quiet sacred pixel-art editorial scenes, symbolic not literal, warm cream / soft blue / candle gold / muted violet, gentle and reverent, lots of negative space for centered text, no faces, no readable text, no religious clipart, no literal Jesus depictions, no guilt imagery.",
+    "slide_image_prompts": [],
     "score": 100,
     "score_breakdown": {
-      "retention_chain": 12,
-      "emotional_resonance": 9,
-      "novel_reframe": 14,
+      "retention_chain": 18,
+      "emotional_resonance": 11,
+      "novel_reframe": 13,
       "swipe_bridge": 10,
       "app_fit_late": 10,
-      "late_cta": 3,
+      "late_cta": 8,
       "safety": 10,
       "engagement_trigger": 8,
-      "visual_evocativeness": 3
+      "visual_evocativeness": 5
     },
     "mutation_notes": [
-      "Hook-first pipeline: category=private_moment, hook_score=8/14, breakdown={'private_specificity': 2, 'recognition': 2, 'tension': 0, 'brevity': 0, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 0}.",
-      "Reject unless manually approved: hook score is below scheduling threshold.",
-      "Tighten slide count/line length; first swipe path is not crisp enough.",
-      "Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.",
-      "Make visual symbol more evocative and leave more negative space for centered text."
+      "Native UGC open loop: reaction-face slide 1, one loop opened per slide, product only after payoff.",
+      "Voice: first-person confessional, concrete specific, no ad cadence."
     ]
   },
   {
     "app": "held",
-    "title": "Held \u2014 Locked Door Rep #024",
-    "hook": "You do the tiny workaround instead of wanting someone to know what you are carrying.",
-    "hook_category": "private_moment",
-    "hook_score": 7,
+    "title": "Held — pov_you_said_ill_be_praying_for_you_thre",
+    "hook": "POV: you said 'I'll be praying for you' three weeks ago and it just resurfaced in your brain like a jump scare",
+    "hook_category": "story",
+    "hook_score": 14,
+    "reaction_face": "jump-scare face, wide eyes",
+    "format": "ugc_reaction",
     "slides": [
-      "You do the tiny workaround instead of wanting someone to know what you are carrying.",
-      "Avoidance feels like relief, but it also teaches the habit to come back stronger.",
-      "That is why 'actually follow through' needs a tiny repeatable system, not just another good intention.",
-      "Make it small enough to do before your brain talks you out of it.",
-      "One action small enough to complete today.",
-      "Held helps with one prayer partner, small daily rhythm \u2014 without turning it into another vague intention."
+      "POV: you said 'I'll be praying for you' three weeks ago and it just resurfaced in your brain like a jump scare",
+      "you know the feeling. the little gut drop",
+      "you didn't forget because you're heartless. you forgot because there was no system holding it",
+      "a promise with nobody on the other end just evaporates",
+      "the fix isn't 'try harder', it's 'don't do it alone'",
+      "one partner who's carrying it with you changes everything. that's Held. waitlist's open"
     ],
-    "caption": "You do the tiny workaround instead of wanting someone to know what you are carrying. Start with one tiny rep, then make the next one easier to repeat. Held: A quiet prayer partner app that helps two Christians actually follow through in prayer \u2014 one prayer, one person, one day at a time. Join the Held waitlist: TODO",
-    "image_prompt": "pixel-art quiet sacred editorial backgrounds, symbolic not literal, gentle and reverent, a small locked door with a colored keyhole and a staircase behind it, palette: warm cream, soft blue, candle gold, muted violet, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, cheesy religious clipart, literal Jesus depictions, guilt/shame imagery.",
+    "caption": "the 'I'll pray for you' → forget → feel bad loop is so real. join the Held waitlist (link in bio) — one prayer partner, no groups, no guilt",
     "hashtags": [
+      "#christiantiktok",
       "#prayer",
-      "#christianapp",
-      "#faithhabits",
+      "#faith",
       "#prayerpartner",
-      "#christiantiktok"
+      "#christian",
+      "#faithhabits"
     ],
+    "image_prompt": "SLIDE 1: candid amateur phone-selfie of a real person with a genuine reaction (jump-scare face, wide eyes), natural indoor light, imperfect framing, UGC TikTok aesthetic, no text. SLIDES 2-6: quiet sacred pixel-art editorial scenes, symbolic not literal, warm cream / soft blue / candle gold / muted violet, gentle and reverent, lots of negative space for centered text, no faces, no readable text, no religious clipart, no literal Jesus depictions, no guilt imagery.",
+    "slide_image_prompts": [],
     "score": 100,
     "score_breakdown": {
-      "retention_chain": 12,
-      "emotional_resonance": 10,
-      "novel_reframe": 14,
+      "retention_chain": 18,
+      "emotional_resonance": 11,
+      "novel_reframe": 13,
       "swipe_bridge": 10,
       "app_fit_late": 10,
-      "late_cta": 3,
+      "late_cta": 8,
       "safety": 10,
       "engagement_trigger": 8,
-      "visual_evocativeness": 3
+      "visual_evocativeness": 5
     },
     "mutation_notes": [
-      "Hook-first pipeline: category=private_moment, hook_score=7/14, breakdown={'private_specificity': 2, 'recognition': 1, 'tension': 0, 'brevity': 0, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 0}.",
-      "Reject unless manually approved: hook score is below scheduling threshold.",
-      "Tighten slide count/line length; first swipe path is not crisp enough.",
-      "Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.",
-      "Make visual symbol more evocative and leave more negative space for centered text."
+      "Native UGC open loop: reaction-face slide 1, one loop opened per slide, product only after payoff.",
+      "Voice: first-person confessional, concrete specific, no ad cadence."
     ]
   },
   {
     "app": "held",
-    "title": "Held \u2014 Blinking Cursor Rep #006",
-    "hook": "You keep meaning to starting strong and fading after three days, but the moment keeps passing.",
-    "hook_category": "private_moment",
-    "hook_score": 7,
+    "title": "Held — so_i_just_did_the_math_on_how_many_praye",
+    "hook": "so I just did the math on how many prayers I've promised people and forgotten and I genuinely need to lie down",
+    "hook_category": "confessional",
+    "hook_score": 14,
+    "reaction_face": "did-the-math dread",
+    "format": "ugc_reaction",
     "slides": [
-      "You keep meaning to starting strong and fading after three days, but the moment keeps passing.",
-      "Your brain keeps choosing the familiar loop because it has no smaller script to run.",
-      "That is why 'feel quietly held' needs a tiny repeatable system, not just another good intention.",
-      "The win is not perfection. The win is a repeatable rep.",
-      "One action small enough to complete today.",
-      "Held helps with one prayer partner, small daily rhythm \u2014 without turning it into another vague intention."
+      "so I just did the math on how many prayers I've promised people and forgotten and I genuinely need to lie down",
+      "conservatively? dozens. this year alone",
+      "and every single one felt sincere in the moment",
+      "the problem was never my heart. it was that the moment passed and nothing caught it",
+      "turns out one person praying alongside you catches almost all of it",
+      "that's the entire point of Held. one partner, quiet rhythm. prelaunch waitlist's in bio"
     ],
-    "caption": "You keep meaning to starting strong and fading after three days, but the moment keeps passing. Start with one tiny rep, then make the next one easier to repeat. Held: A quiet prayer partner app that helps two Christians actually follow through in prayer \u2014 one prayer, one person, one day at a time. Join the Held waitlist: TODO",
-    "image_prompt": "pixel-art quiet sacred editorial backgrounds, symbolic not literal, gentle and reverent, a glowing blinking cursor in an empty message box slowly becoming a tiny open doorway, palette: warm cream, soft blue, candle gold, muted violet, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, cheesy religious clipart, literal Jesus depictions, guilt/shame imagery.",
+    "caption": "the 'I'll pray for you' → forget → feel bad loop is so real. join the Held waitlist (link in bio) — one prayer partner, no groups, no guilt",
     "hashtags": [
+      "#christiantiktok",
       "#prayer",
-      "#christianapp",
-      "#faithhabits",
+      "#faith",
       "#prayerpartner",
-      "#christiantiktok"
+      "#christian",
+      "#faithhabits"
     ],
-    "score": 99,
+    "image_prompt": "SLIDE 1: candid amateur phone-selfie of a real person with a genuine reaction (did-the-math dread), natural indoor light, imperfect framing, UGC TikTok aesthetic, no text. SLIDES 2-6: quiet sacred pixel-art editorial scenes, symbolic not literal, warm cream / soft blue / candle gold / muted violet, gentle and reverent, lots of negative space for centered text, no faces, no readable text, no religious clipart, no literal Jesus depictions, no guilt imagery.",
+    "slide_image_prompts": [],
+    "score": 100,
     "score_breakdown": {
-      "retention_chain": 12,
-      "emotional_resonance": 9,
-      "novel_reframe": 14,
+      "retention_chain": 18,
+      "emotional_resonance": 11,
+      "novel_reframe": 13,
       "swipe_bridge": 10,
       "app_fit_late": 10,
-      "late_cta": 3,
+      "late_cta": 8,
       "safety": 10,
       "engagement_trigger": 8,
-      "visual_evocativeness": 3
+      "visual_evocativeness": 5
     },
     "mutation_notes": [
-      "Hook-first pipeline: category=private_moment, hook_score=7/14, breakdown={'private_specificity': 2, 'recognition': 1, 'tension': 0, 'brevity': 0, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 0}.",
-      "Reject unless manually approved: hook score is below scheduling threshold.",
-      "Tighten slide count/line length; first swipe path is not crisp enough.",
-      "Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.",
-      "Make visual symbol more evocative and leave more negative space for centered text."
+      "Native UGC open loop: reaction-face slide 1, one loop opened per slide, product only after payoff.",
+      "Voice: first-person confessional, concrete specific, no ad cadence."
     ]
   },
   {
     "app": "held",
-    "title": "Held \u2014 Locked Door Rep #016",
-    "hook": "You keep meaning to wanting someone to know what you are carrying, but the moment keeps passing.",
-    "hook_category": "private_moment",
-    "hook_score": 7,
+    "title": "Held — my_friend_texted_can_you_pray_for_me_at",
+    "hook": "my friend texted 'can you pray for me' at 11pm and I said 'of course'… and then my brain did the thing it always does",
+    "hook_category": "story",
+    "hook_score": 14,
+    "reaction_face": "late-night texture, phone glow",
+    "format": "ugc_reaction",
     "slides": [
-      "You keep meaning to wanting someone to know what you are carrying, but the moment keeps passing.",
-      "You cannot build trust with yourself from intentions alone. You need repeatable evidence.",
-      "That is why 'feel quietly held' needs a tiny repeatable system, not just another good intention.",
-      "Make it small enough to do before your brain talks you out of it.",
-      "One repeatable rep instead of a vague goal.",
-      "Held helps with one prayer partner, small daily rhythm \u2014 without turning it into another vague intention."
+      "my friend texted 'can you pray for me' at 11pm and I said 'of course'… and then my brain did the thing it always does",
+      "it filed it under 'later' and later never came",
+      "by morning it was buried under 90 other things",
+      "and she never knew whether I actually did or not. neither did I",
+      "that's when I stopped believing I had a discipline problem. I had an alone problem",
+      "Held pairs you with one person so 'later' actually happens. waitlist's open now"
     ],
-    "caption": "You keep meaning to wanting someone to know what you are carrying, but the moment keeps passing. Start with one tiny rep, then make the next one easier to repeat. Held: A quiet prayer partner app that helps two Christians actually follow through in prayer \u2014 one prayer, one person, one day at a time. Join the Held waitlist: TODO",
-    "image_prompt": "pixel-art quiet sacred editorial backgrounds, symbolic not literal, gentle and reverent, a small locked door with a colored keyhole and a staircase behind it, palette: warm cream, soft blue, candle gold, muted violet, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, cheesy religious clipart, literal Jesus depictions, guilt/shame imagery.",
+    "caption": "the 'I'll pray for you' → forget → feel bad loop is so real. join the Held waitlist (link in bio) — one prayer partner, no groups, no guilt",
     "hashtags": [
+      "#christiantiktok",
       "#prayer",
-      "#christianapp",
-      "#faithhabits",
+      "#faith",
       "#prayerpartner",
-      "#christiantiktok"
+      "#christian",
+      "#faithhabits"
     ],
-    "score": 99,
+    "image_prompt": "SLIDE 1: candid amateur phone-selfie of a real person with a genuine reaction (late-night texture, phone glow), natural indoor light, imperfect framing, UGC TikTok aesthetic, no text. SLIDES 2-6: quiet sacred pixel-art editorial scenes, symbolic not literal, warm cream / soft blue / candle gold / muted violet, gentle and reverent, lots of negative space for centered text, no faces, no readable text, no religious clipart, no literal Jesus depictions, no guilt imagery.",
+    "slide_image_prompts": [],
+    "score": 100,
     "score_breakdown": {
-      "retention_chain": 12,
-      "emotional_resonance": 9,
-      "novel_reframe": 14,
+      "retention_chain": 18,
+      "emotional_resonance": 11,
+      "novel_reframe": 13,
       "swipe_bridge": 10,
       "app_fit_late": 10,
-      "late_cta": 3,
+      "late_cta": 8,
       "safety": 10,
       "engagement_trigger": 8,
-      "visual_evocativeness": 3
+      "visual_evocativeness": 5
     },
     "mutation_notes": [
-      "Hook-first pipeline: category=private_moment, hook_score=7/14, breakdown={'private_specificity': 2, 'recognition': 1, 'tension': 0, 'brevity': 0, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 0}.",
-      "Reject unless manually approved: hook score is below scheduling threshold.",
-      "Tighten slide count/line length; first swipe path is not crisp enough.",
-      "Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.",
-      "Make visual symbol more evocative and leave more negative space for centered text."
+      "Native UGC open loop: reaction-face slide 1, one loop opened per slide, product only after payoff.",
+      "Voice: first-person confessional, concrete specific, no ad cadence."
     ]
   },
   {
     "app": "held",
-    "title": "Held \u2014 Unopened Envelope Rep #004",
-    "hook": "You keep meaning to saying you will pray and forgetting, but the moment keeps passing.",
-    "hook_category": "private_moment",
-    "hook_score": 7,
+    "title": "Held — i_always_assumed_people_who_actually_pra",
+    "hook": "I always assumed people who actually pray every day just had way more willpower than me. I was so wrong it's almost funny",
+    "hook_category": "confessional",
+    "hook_score": 14,
+    "reaction_face": "mild disbelief, eyebrow raise",
+    "format": "ugc_reaction",
     "slides": [
-      "You keep meaning to saying you will pray and forgetting, but the moment keeps passing.",
-      "The problem is not that you do not care. It is that the next step is too undefined.",
-      "That is why 'actually follow through' needs a tiny repeatable system, not just another good intention.",
-      "The goal is not to transform overnight.",
-      "One repeatable rep instead of a vague goal.",
-      "Held helps with one prayer partner, small daily rhythm \u2014 without turning it into another vague intention."
+      "I always assumed people who actually pray every day just had way more willpower than me. I was so wrong it's almost funny",
+      "I pictured them waking up at 5am glowing with discipline",
+      "then I asked a few of them",
+      "every single one had one thing in common, and it wasn't willpower",
+      "they weren't doing it alone. they had one person in it with them",
+      "that's the whole design of Held. one partner, tiny rhythm. prelaunch — waitlist in bio"
     ],
-    "caption": "You keep meaning to saying you will pray and forgetting, but the moment keeps passing. Start with one tiny rep, then make the next one easier to repeat. Held: A quiet prayer partner app that helps two Christians actually follow through in prayer \u2014 one prayer, one person, one day at a time. Join the Held waitlist: TODO",
-    "image_prompt": "pixel-art quiet sacred editorial backgrounds, symbolic not literal, gentle and reverent, an unopened envelope on a table with a tiny bridge of light behind it, palette: warm cream, soft blue, candle gold, muted violet, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, cheesy religious clipart, literal Jesus depictions, guilt/shame imagery.",
+    "caption": "the 'I'll pray for you' → forget → feel bad loop is so real. join the Held waitlist (link in bio) — one prayer partner, no groups, no guilt",
     "hashtags": [
+      "#christiantiktok",
       "#prayer",
-      "#christianapp",
-      "#faithhabits",
+      "#faith",
       "#prayerpartner",
-      "#christiantiktok"
+      "#christian",
+      "#faithhabits"
     ],
-    "score": 98,
+    "image_prompt": "SLIDE 1: candid amateur phone-selfie of a real person with a genuine reaction (mild disbelief, eyebrow raise), natural indoor light, imperfect framing, UGC TikTok aesthetic, no text. SLIDES 2-6: quiet sacred pixel-art editorial scenes, symbolic not literal, warm cream / soft blue / candle gold / muted violet, gentle and reverent, lots of negative space for centered text, no faces, no readable text, no religious clipart, no literal Jesus depictions, no guilt imagery.",
+    "slide_image_prompts": [],
+    "score": 100,
     "score_breakdown": {
-      "retention_chain": 12,
-      "emotional_resonance": 8,
-      "novel_reframe": 14,
+      "retention_chain": 18,
+      "emotional_resonance": 11,
+      "novel_reframe": 13,
       "swipe_bridge": 10,
       "app_fit_late": 10,
-      "late_cta": 3,
+      "late_cta": 8,
       "safety": 10,
       "engagement_trigger": 8,
-      "visual_evocativeness": 3
+      "visual_evocativeness": 5
     },
     "mutation_notes": [
-      "Hook-first pipeline: category=private_moment, hook_score=7/14, breakdown={'private_specificity': 2, 'recognition': 1, 'tension': 0, 'brevity': 0, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 0}.",
-      "Reject unless manually approved: hook score is below scheduling threshold.",
-      "Tighten slide count/line length; first swipe path is not crisp enough.",
-      "Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.",
-      "Make visual symbol more evocative and leave more negative space for centered text."
+      "Native UGC open loop: reaction-face slide 1, one loop opened per slide, product only after payoff.",
+      "Voice: first-person confessional, concrete specific, no ad cadence."
     ]
   },
   {
     "app": "held",
-    "title": "Held \u2014 Missed Call Glow Rep #007",
-    "hook": "You know wanting someone to know what you are carrying matters, but somehow it becomes tomorrow's problem.",
-    "hook_category": "private_moment",
-    "hook_score": 7,
+    "title": "Held — can_we_talk_about_the_prayer_guilt_spira",
+    "hook": "can we talk about the prayer guilt spiral for a sec because I'm convinced it's why most of us quietly gave up",
+    "hook_category": "story",
+    "hook_score": 14,
+    "reaction_face": "gentle recognition, soft smile fading",
+    "format": "ugc_reaction",
     "slides": [
-      "You know wanting someone to know what you are carrying matters, but somehow it becomes tomorrow's problem.",
-      "The problem is not that you do not care. It is that the next step is too undefined.",
-      "That is why 'actually follow through' needs a tiny repeatable system, not just another good intention.",
-      "Make it small enough to do before your brain talks you out of it.",
-      "One repeatable rep instead of a vague goal.",
-      "Held helps with one prayer partner, small daily rhythm \u2014 without turning it into another vague intention."
+      "can we talk about the prayer guilt spiral for a sec because I'm convinced it's why most of us quietly gave up",
+      "it starts small. you miss a day",
+      "then missing feels bad, so you avoid opening the app, the Bible, the group",
+      "then avoiding makes you feel like a fraud, so you avoid harder",
+      "you don't need more guilt. you need one person who just… stays in it with you",
+      "no groups, no streak shaming, one partner. that's Held, and the waitlist is open"
     ],
-    "caption": "You know wanting someone to know what you are carrying matters, but somehow it becomes tomorrow's problem. Start with one tiny rep, then make the next one easier to repeat. Held: A quiet prayer partner app that helps two Christians actually follow through in prayer \u2014 one prayer, one person, one day at a time. Join the Held waitlist: TODO",
-    "image_prompt": "pixel-art quiet sacred editorial backgrounds, symbolic not literal, gentle and reverent, a phone screen glowing like a small moon beside an open window, palette: warm cream, soft blue, candle gold, muted violet, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, cheesy religious clipart, literal Jesus depictions, guilt/shame imagery.",
+    "caption": "the 'I'll pray for you' → forget → feel bad loop is so real. join the Held waitlist (link in bio) — one prayer partner, no groups, no guilt",
     "hashtags": [
+      "#christiantiktok",
       "#prayer",
-      "#christianapp",
-      "#faithhabits",
+      "#faith",
       "#prayerpartner",
-      "#christiantiktok"
+      "#christian",
+      "#faithhabits"
     ],
-    "score": 98,
+    "image_prompt": "SLIDE 1: candid amateur phone-selfie of a real person with a genuine reaction (gentle recognition, soft smile fading), natural indoor light, imperfect framing, UGC TikTok aesthetic, no text. SLIDES 2-6: quiet sacred pixel-art editorial scenes, symbolic not literal, warm cream / soft blue / candle gold / muted violet, gentle and reverent, lots of negative space for centered text, no faces, no readable text, no religious clipart, no literal Jesus depictions, no guilt imagery.",
+    "slide_image_prompts": [],
+    "score": 100,
     "score_breakdown": {
-      "retention_chain": 12,
-      "emotional_resonance": 8,
-      "novel_reframe": 14,
+      "retention_chain": 18,
+      "emotional_resonance": 11,
+      "novel_reframe": 13,
       "swipe_bridge": 10,
       "app_fit_late": 10,
-      "late_cta": 3,
+      "late_cta": 8,
       "safety": 10,
       "engagement_trigger": 8,
-      "visual_evocativeness": 3
+      "visual_evocativeness": 5
     },
     "mutation_notes": [
-      "Hook-first pipeline: category=private_moment, hook_score=7/14, breakdown={'private_specificity': 2, 'recognition': 1, 'tension': 0, 'brevity': 0, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 0}.",
-      "Reject unless manually approved: hook score is below scheduling threshold.",
-      "Tighten slide count/line length; first swipe path is not crisp enough.",
-      "Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.",
-      "Make visual symbol more evocative and leave more negative space for centered text."
+      "Native UGC open loop: reaction-face slide 1, one loop opened per slide, product only after payoff.",
+      "Voice: first-person confessional, concrete specific, no ad cadence."
     ]
   },
   {
     "app": "held",
-    "title": "Held \u2014 Empty Chair Rep #010",
-    "hook": "You know starting strong and fading after three days matters, but somehow it becomes tomorrow's problem.",
-    "hook_category": "private_moment",
-    "hook_score": 7,
+    "title": "Held — the_loneliest_part_of_my_faith_wasnt_dou",
+    "hook": "the loneliest part of my faith wasn't doubt. it was realizing nobody actually knew what I was carrying",
+    "hook_category": "confessional",
+    "hook_score": 14,
+    "reaction_face": "quiet ache, looking away",
+    "format": "ugc_reaction",
     "slides": [
-      "You know starting strong and fading after three days matters, but somehow it becomes tomorrow's problem.",
-      "The problem is not that you do not care. It is that the next step is too undefined.",
-      "That is why 'build a simple prayer rhythm with one person' needs a tiny repeatable system, not just another good intention.",
-      "The goal is not to transform overnight.",
-      "One version so small it almost feels silly.",
-      "Held helps with one prayer partner, small daily rhythm \u2014 without turning it into another vague intention."
+      "the loneliest part of my faith wasn't doubt. it was realizing nobody actually knew what I was carrying",
+      "everybody knew the surface version of me",
+      "the 'doing good, staying blessed' version",
+      "but the stuff I actually needed prayer for? nobody was holding that",
+      "you're not meant to carry it alone and you're definitely not meant to pray it alone",
+      "Held is one partner who knows and prays with you. quietly. waitlist's in bio"
     ],
-    "caption": "You know starting strong and fading after three days matters, but somehow it becomes tomorrow's problem. Start with one tiny rep, then make the next one easier to repeat. Held: A quiet prayer partner app that helps two Christians actually follow through in prayer \u2014 one prayer, one person, one day at a time. Join the Held waitlist: TODO",
-    "image_prompt": "pixel-art quiet sacred editorial backgrounds, symbolic not literal, gentle and reverent, an empty chair under warm light with a tiny dotted path leading toward it, palette: warm cream, soft blue, candle gold, muted violet, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, cheesy religious clipart, literal Jesus depictions, guilt/shame imagery.",
+    "caption": "the 'I'll pray for you' → forget → feel bad loop is so real. join the Held waitlist (link in bio) — one prayer partner, no groups, no guilt",
     "hashtags": [
+      "#christiantiktok",
       "#prayer",
-      "#christianapp",
-      "#faithhabits",
+      "#faith",
       "#prayerpartner",
-      "#christiantiktok"
+      "#christian",
+      "#faithhabits"
     ],
-    "score": 98,
+    "image_prompt": "SLIDE 1: candid amateur phone-selfie of a real person with a genuine reaction (quiet ache, looking away), natural indoor light, imperfect framing, UGC TikTok aesthetic, no text. SLIDES 2-6: quiet sacred pixel-art editorial scenes, symbolic not literal, warm cream / soft blue / candle gold / muted violet, gentle and reverent, lots of negative space for centered text, no faces, no readable text, no religious clipart, no literal Jesus depictions, no guilt imagery.",
+    "slide_image_prompts": [],
+    "score": 100,
     "score_breakdown": {
-      "retention_chain": 12,
-      "emotional_resonance": 8,
-      "novel_reframe": 14,
+      "retention_chain": 18,
+      "emotional_resonance": 11,
+      "novel_reframe": 13,
       "swipe_bridge": 10,
       "app_fit_late": 10,
-      "late_cta": 3,
+      "late_cta": 8,
       "safety": 10,
       "engagement_trigger": 8,
-      "visual_evocativeness": 3
+      "visual_evocativeness": 5
     },
     "mutation_notes": [
-      "Hook-first pipeline: category=private_moment, hook_score=7/14, breakdown={'private_specificity': 2, 'recognition': 1, 'tension': 0, 'brevity': 0, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 0}.",
-      "Reject unless manually approved: hook score is below scheduling threshold.",
-      "Tighten slide count/line length; first swipe path is not crisp enough.",
-      "Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.",
-      "Make visual symbol more evocative and leave more negative space for centered text."
+      "Native UGC open loop: reaction-face slide 1, one loop opened per slide, product only after payoff.",
+      "Voice: first-person confessional, concrete specific, no ad cadence."
     ]
   },
   {
     "app": "held",
-    "title": "Held \u2014 Blinking Cursor Rep #014",
-    "hook": "You know saying you will pray and forgetting matters, but somehow it becomes tomorrow's problem.",
-    "hook_category": "private_moment",
-    "hook_score": 7,
+    "title": "Held — i_asked_like_50_people_the_last_time_the",
+    "hook": "I asked like 50 people the last time they actually followed through on 'I'll pray for you' and almost nobody could answer",
+    "hook_category": "story",
+    "hook_score": 14,
+    "reaction_face": "small survey shock",
+    "format": "ugc_reaction",
     "slides": [
-      "You know saying you will pray and forgetting matters, but somehow it becomes tomorrow's problem.",
-      "The longer you wait, the more the tiny action starts to feel like a whole identity test.",
-      "That is why 'actually follow through' needs a tiny repeatable system, not just another good intention.",
-      "The win is not perfection. The win is a repeatable rep.",
-      "One checkpoint you can actually mark done.",
-      "Held helps with one prayer partner, small daily rhythm \u2014 without turning it into another vague intention."
+      "I asked like 50 people the last time they actually followed through on 'I'll pray for you' and almost nobody could answer",
+      "not one clean 'yeah, last Tuesday, for my mom'",
+      "just a lot of nervous laughing and 'oof, good question'",
+      "that blank stare is the whole problem nobody talks about",
+      "we mean it every time and it dies alone every time",
+      "Held exists so it doesn't die alone. one partner, one day at a time. waitlist open"
     ],
-    "caption": "You know saying you will pray and forgetting matters, but somehow it becomes tomorrow's problem. Start with one tiny rep, then make the next one easier to repeat. Held: A quiet prayer partner app that helps two Christians actually follow through in prayer \u2014 one prayer, one person, one day at a time. Join the Held waitlist: TODO",
-    "image_prompt": "pixel-art quiet sacred editorial backgrounds, symbolic not literal, gentle and reverent, a glowing blinking cursor in an empty message box slowly becoming a tiny open doorway, palette: warm cream, soft blue, candle gold, muted violet, emotionally evocative, symbolic not literal, soft grain, vertical 4:5 TikTok composition, avoid: readable text, cheesy religious clipart, literal Jesus depictions, guilt/shame imagery.",
+    "caption": "the 'I'll pray for you' → forget → feel bad loop is so real. join the Held waitlist (link in bio) — one prayer partner, no groups, no guilt",
     "hashtags": [
+      "#christiantiktok",
       "#prayer",
-      "#christianapp",
-      "#faithhabits",
+      "#faith",
       "#prayerpartner",
-      "#christiantiktok"
+      "#christian",
+      "#faithhabits"
     ],
-    "score": 98,
+    "image_prompt": "SLIDE 1: candid amateur phone-selfie of a real person with a genuine reaction (small survey shock), natural indoor light, imperfect framing, UGC TikTok aesthetic, no text. SLIDES 2-6: quiet sacred pixel-art editorial scenes, symbolic not literal, warm cream / soft blue / candle gold / muted violet, gentle and reverent, lots of negative space for centered text, no faces, no readable text, no religious clipart, no literal Jesus depictions, no guilt imagery.",
+    "slide_image_prompts": [],
+    "score": 100,
     "score_breakdown": {
-      "retention_chain": 12,
-      "emotional_resonance": 8,
-      "novel_reframe": 14,
+      "retention_chain": 18,
+      "emotional_resonance": 11,
+      "novel_reframe": 13,
       "swipe_bridge": 10,
       "app_fit_late": 10,
-      "late_cta": 3,
+      "late_cta": 8,
       "safety": 10,
       "engagement_trigger": 8,
-      "visual_evocativeness": 3
+      "visual_evocativeness": 5
     },
     "mutation_notes": [
-      "Hook-first pipeline: category=private_moment, hook_score=7/14, breakdown={'private_specificity': 2, 'recognition': 1, 'tension': 0, 'brevity': 0, 'non_generic': 2, 'non_salesy': 2, 'visual_compatibility': 0}.",
-      "Reject unless manually approved: hook score is below scheduling threshold.",
-      "Tighten slide count/line length; first swipe path is not crisp enough.",
-      "Add final/penultimate save, start, or practice CTA; carousel sources recommend an ending action.",
-      "Make visual symbol more evocative and leave more negative space for centered text."
+      "Native UGC open loop: reaction-face slide 1, one loop opened per slide, product only after payoff.",
+      "Voice: first-person confessional, concrete specific, no ad cadence."
     ]
   }
 ]

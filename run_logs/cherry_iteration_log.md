@@ -1,7 +1,7 @@
 # Iteration Log
 
 App: Cherry
-Iterations requested: 25
+Iterations requested: 150
 Hook candidates generated: 20
 Slideshow candidates generated: 15
 Winners selected: 12

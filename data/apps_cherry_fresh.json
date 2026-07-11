@@ -1,0 +1,27 @@
+{
+  "app": "Cherry",
+  "slug": "cherry_fresh",
+  "status": "live_google_play_only",
+  "primary_url": "https://play.google.com/store/apps/details?id=site.cherryapp.cherry&hl=en_US",
+  "primary_cta": "Try Cherry on Google Play",
+  "positioning": "A self-guided practice app for social anxiety that helps users plan tiny real-world social reps and log what actually happened.",
+  "avatar": "Android users who struggle with social anxiety, avoidance, overthinking, group chats, meetings, plans, phone calls, and everyday social reps.",
+  "core_mechanism": ["tiny social reps", "prediction vs reality logs", "structured practice", "low-pressure progress"],
+  "pain_scenes": [
+    "standing outside a cafe rehearsing whether to go in",
+    "watching your name hover over a group chat typing indicator then disappearing",
+    "building an exit plan before you arrive anywhere",
+    "pretending to check a shelf so you do not have to say hi",
+    "letting a phone ring out while already deciding the excuse",
+    "knowing exactly what you want to say in a meeting and saying none of it"
+  ],
+  "desired_outcomes": ["doing one small social rep", "collecting real evidence", "showing up without needing confidence first"],
+  "forbidden_claims": ["cure", "treats", "treatment", "clinically proven", "replace therapy", "therapy replacement"],
+  "visual_lane": {
+    "style": "pixel-art editorial scene backgrounds, lively but moody, saturated deep colors, symbolic through place not devices, anxious but hopeful",
+    "palette": ["deep cherry red", "rich plum", "midnight blue", "emerald green", "golden amber", "warm cream"],
+    "scene_pool": ["cafe doorway at blue hour", "wet crosswalk reflecting neon", "library aisle with saturated window light", "stairwell with plum shadows", "park bench under amber evening sky", "rooftop skyline with deep cherry clouds", "quiet convenience store exterior", "tree-lined path after rain"],
+    "avoid": ["readable text", "distressed faces", "medical imagery", "phones", "speech bubbles", "screens", "devices", "laptops", "tablets", "headphones"]
+  },
+  "hashtags": ["#socialanxiety", "#overthinking", "#avoidance", "#mentalhealthapp", "#selfhelpapp"]
+}

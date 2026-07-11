@@ -467,7 +467,7 @@ def build_from_hook(app: dict, hook: HookCandidate) -> Slideshow:
     master_anchor = sanitize_visual_anchor(hook.symbol)
     image_prompt = (
         f"{lane.get('style', 'pixel-art editorial scene background')}, {master_anchor}, "
-        f"emotionally evocative through real-world place, lively but moody, saturated deep colors, "
+        f"emotionally evocative through a real-world setting rendered as clean pixel art, lively but moody, saturated deep colors, "
         f"palette: {palette}, warm cinematic light, vertical 4:5 TikTok composition, lots of clean negative space for centered text, avoid: {avoid}."
     )
     slide_image_prompts = themed_slide_prompts(app, slides, hook)
@@ -506,7 +506,7 @@ def build_generic_candidate(app: dict, rng: random.Random, i: int) -> Slideshow:
     lane = app.get("visual_lane", {})
     palette = ", ".join(lane.get("palette", [])) or "deep saturated palette"
     avoid = ", ".join(lane.get("avoid", [])) or "readable text, devices"
-    image_prompt = f"{lane.get('style', 'pixel-art editorial scene background')}, {symbol_desc}, palette: {palette}, emotionally evocative through real-world place, lively but moody, saturated deep colors, warm cinematic light, vertical 4:5 TikTok composition, avoid: {avoid}."
+    image_prompt = f"{lane.get('style', 'pixel-art editorial scene background')}, {symbol_desc}, palette: {palette}, emotionally evocative through a real-world setting rendered as clean pixel art, lively but moody, saturated deep colors, warm cinematic light, vertical 4:5 TikTok composition, avoid: {avoid}."
     hb = score_hook(app, hook, "private_moment")
     h = HookCandidate(hook, "private_moment", sum(hb.values()), hb, slides[1:], symbol_desc, caption)
     slide_image_prompts = themed_slide_prompts(app, slides, h)

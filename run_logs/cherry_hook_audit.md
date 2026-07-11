@@ -20,8 +20,8 @@ Generated hooks: 20
 | 10/14 | counterintuitive | “just say hi” skips the hard part | `{"brevity": 2, "non_generic": 2, "non_salesy": 2, "private_specificity": 1, "recognition": 0, "tension": 1, "visual_compatibility": 2}` |
 | 10/14 | private_moment | you knew the answer and let silence win | `{"brevity": 2, "non_generic": 2, "non_salesy": 2, "private_specificity": 1, "recognition": 1, "tension": 0, "visual_compatibility": 2}` |
 | 10/14 | private_moment | you rehearsed hello and still avoided them | `{"brevity": 2, "non_generic": 2, "non_salesy": 2, "private_specificity": 1, "recognition": 1, "tension": 0, "visual_compatibility": 2}` |
-| 9/14 | counterintuitive | social anxiety loves vague advice | `{"brevity": 2, "non_generic": 2, "non_salesy": 2, "private_specificity": 0, "recognition": 0, "tension": 1, "visual_compatibility": 2}` |
 | 9/14 | correction | the hard part was being perceived | `{"brevity": 2, "non_generic": 2, "non_salesy": 2, "private_specificity": 0, "recognition": 0, "tension": 1, "visual_compatibility": 2}` |
+| 9/14 | counterintuitive | social anxiety loves vague advice | `{"brevity": 2, "non_generic": 2, "non_salesy": 2, "private_specificity": 0, "recognition": 0, "tension": 1, "visual_compatibility": 2}` |
 | 9/14 | private_moment | the reply was four words | `{"brevity": 2, "non_generic": 2, "non_salesy": 2, "private_specificity": 1, "recognition": 0, "tension": 0, "visual_compatibility": 2}` |
 | 9/14 | private_moment | you saw them first, so now it counts | `{"brevity": 2, "non_generic": 2, "non_salesy": 2, "private_specificity": 0, "recognition": 1, "tension": 0, "visual_compatibility": 2}` |
 | 9/14 | private_moment | the exit plan started before you arrived | `{"brevity": 2, "non_generic": 2, "non_salesy": 2, "private_specificity": 0, "recognition": 1, "tension": 0, "visual_compatibility": 2}` |
